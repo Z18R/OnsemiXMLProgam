@@ -1,0 +1,994 @@
+<dataexchange>
+  <subcon>
+    <inv_org>PH4</inv_org>
+    <subcon_name>ATEC</subcon_name>
+  </subcon>
+  <transaction>
+    <transaction_code>INVRCPTS</transaction_code>
+    <transaction_date>
+      <tran_month>04</tran_month>
+      <tran_day>11</tran_day>
+      <tran_year>2017</tran_year>
+      <tran_time>08:23:00</tran_time>
+    </transaction_date>
+    <invoice>
+      <invoice_number>INV1712008</invoice_number>
+      <target_location />
+    </invoice>
+    <customer_lot>
+      <cust_lot_type>PS</cust_lot_type>
+      <cust_lot_num>ATECPI009</cust_lot_num>
+    </customer_lot>
+    <source_lot>
+      <src_lot_type>PS</src_lot_type>
+      <src_lot_number>ATECPI009</src_lot_number>
+      <src_lot_category>NORMAL</src_lot_category>
+      <src_lot_qty>4800</src_lot_qty>
+      <src_device>MM74HC00-XGC3028D-WDQ</src_device>
+      <src_location />
+    </source_lot>
+    <assembly_step>
+      <step_name />
+      <step_out_qty />
+    </assembly_step>
+    <test_insertion>
+      <insertion_name />
+      <insertion_qty_out />
+    </test_insertion>
+    <target_lot>
+      <tgt_lot_type>PS</tgt_lot_type>
+      <tgt_lot_number>ATECPI009</tgt_lot_number>
+      <tgt_lot_category>NORMAL</tgt_lot_category>
+      <tgt_lot_qty>4800</tgt_lot_qty>
+      <tgt_device>MM74HC00-XGC3028D-WDQ</tgt_device>
+      <tgt_location>DIWH</tgt_location>
+    </target_lot>
+    <comp_lot>
+      <comp_lot_type />
+      <comp_lot_number />
+      <comp_lot_category />
+      <comp_lot_qty />
+      <comp_device />
+      <comp_location />
+    </comp_lot>
+    <date_code>
+      <date_code1 />
+      <date_code2 />
+    </date_code>
+    <reject>
+      <reject_code />
+      <reject_location />
+      <reject_qty />
+      <reject_comment />
+    </reject>
+    <bonus>
+      <bonus_code />
+      <bonus_location />
+      <bonus_qty />
+      <bonus_comment />
+    </bonus>
+    <commit_date>
+      <commit_month />
+      <commit_day />
+      <commit_year />
+      <commit_time />
+    </commit_date>
+    <hold_lot>
+      <held_reason />
+      <held_location />
+      <held_comment />
+    </hold_lot>
+  </transaction>
+  <transaction>
+    <transaction_code>INVRCPTS</transaction_code>
+    <transaction_date>
+      <tran_month>04</tran_month>
+      <tran_day>11</tran_day>
+      <tran_year>2017</tran_year>
+      <tran_time>08:24:00</tran_time>
+    </transaction_date>
+    <invoice>
+      <invoice_number>INV1712008</invoice_number>
+      <target_location />
+    </invoice>
+    <customer_lot>
+      <cust_lot_type>PS</cust_lot_type>
+      <cust_lot_num>ATECPI010</cust_lot_num>
+    </customer_lot>
+    <source_lot>
+      <src_lot_type>PS</src_lot_type>
+      <src_lot_number>ATECPI010</src_lot_number>
+      <src_lot_category>NORMAL</src_lot_category>
+      <src_lot_qty>5600</src_lot_qty>
+      <src_device>MM74HC00-XBA31187-WDQ</src_device>
+      <src_location />
+    </source_lot>
+    <assembly_step>
+      <step_name />
+      <step_out_qty />
+    </assembly_step>
+    <test_insertion>
+      <insertion_name />
+      <insertion_qty_out />
+    </test_insertion>
+    <target_lot>
+      <tgt_lot_type>PS</tgt_lot_type>
+      <tgt_lot_number>ATECPI010</tgt_lot_number>
+      <tgt_lot_category>NORMAL</tgt_lot_category>
+      <tgt_lot_qty>5600</tgt_lot_qty>
+      <tgt_device>MM74HC00-XBA31187-WDQ</tgt_device>
+      <tgt_location>DIWH</tgt_location>
+    </target_lot>
+    <comp_lot>
+      <comp_lot_type />
+      <comp_lot_number />
+      <comp_lot_category />
+      <comp_lot_qty />
+      <comp_device />
+      <comp_location />
+    </comp_lot>
+    <date_code>
+      <date_code1 />
+      <date_code2 />
+    </date_code>
+    <reject>
+      <reject_code />
+      <reject_location />
+      <reject_qty />
+      <reject_comment />
+    </reject>
+    <bonus>
+      <bonus_code />
+      <bonus_location />
+      <bonus_qty />
+      <bonus_comment />
+    </bonus>
+    <commit_date>
+      <commit_month />
+      <commit_day />
+      <commit_year />
+      <commit_time />
+    </commit_date>
+    <hold_lot>
+      <held_reason />
+      <held_location />
+      <held_comment />
+    </hold_lot>
+  </transaction>
+  <transaction>
+    <transaction_code>LOTSTART</transaction_code>
+    <transaction_date>
+      <tran_month>04</tran_month>
+      <tran_day>11</tran_day>
+      <tran_year>2017</tran_year>
+      <tran_time>09:44:09</tran_time>
+    </transaction_date>
+    <invoice>
+      <invoice_number />
+      <target_location />
+    </invoice>
+    <customer_lot>
+      <cust_lot_type>PS</cust_lot_type>
+      <cust_lot_num>ATECPI009</cust_lot_num>
+    </customer_lot>
+    <source_lot>
+      <src_lot_type>PS</src_lot_type>
+      <src_lot_number>ATECPI009</src_lot_number>
+      <src_lot_category>NORMAL</src_lot_category>
+      <src_lot_qty>4800</src_lot_qty>
+      <src_device>MM74HC00-XGC3028D-WDQ</src_device>
+      <src_location>DIWH</src_location>
+    </source_lot>
+    <assembly_step>
+      <step_name />
+      <step_out_qty />
+    </assembly_step>
+    <test_insertion>
+      <insertion_name />
+      <insertion_qty_out />
+    </test_insertion>
+    <target_lot>
+      <tgt_lot_type>PS</tgt_lot_type>
+      <tgt_lot_number>CUG130010</tgt_lot_number>
+      <tgt_lot_category>NORMAL</tgt_lot_category>
+      <tgt_lot_qty>4800</tgt_lot_qty>
+      <tgt_device>MM74HC00MTC-ASY</tgt_device>
+      <tgt_location>DIAL</tgt_location>
+    </target_lot>
+    <comp_lot>
+      <comp_lot_type />
+      <comp_lot_number />
+      <comp_lot_category />
+      <comp_lot_qty />
+      <comp_device />
+      <comp_location />
+    </comp_lot>
+    <date_code>
+      <date_code1>1714</date_code1>
+      <date_code2 />
+    </date_code>
+    <reject>
+      <reject_code />
+      <reject_location />
+      <reject_qty />
+      <reject_comment />
+    </reject>
+    <bonus>
+      <bonus_code />
+      <bonus_location />
+      <bonus_qty />
+      <bonus_comment />
+    </bonus>
+    <commit_date>
+      <commit_month>04</commit_month>
+      <commit_day>17</commit_day>
+      <commit_year>2017</commit_year>
+      <commit_time>09:44:09</commit_time>
+    </commit_date>
+    <hold_lot>
+      <held_reason />
+      <held_location />
+      <held_comment />
+    </hold_lot>
+  </transaction>
+  <transaction>
+    <transaction_code>LOTCOMP</transaction_code>
+    <transaction_date>
+      <tran_month>04</tran_month>
+      <tran_day>11</tran_day>
+      <tran_year>2017</tran_year>
+      <tran_time>09:45:09</tran_time>
+    </transaction_date>
+    <invoice>
+      <invoice_number />
+      <target_location />
+    </invoice>
+    <customer_lot>
+      <cust_lot_type>PS</cust_lot_type>
+      <cust_lot_num>ATECPI010</cust_lot_num>
+    </customer_lot>
+    <source_lot>
+      <src_lot_type>PS</src_lot_type>
+      <src_lot_number>CUG130010</src_lot_number>
+      <src_lot_category>NORMAL</src_lot_category>
+      <src_lot_qty>4800</src_lot_qty>
+      <src_device>MM74HC00MTC-ASY</src_device>
+      <src_location>ASSY</src_location>
+    </source_lot>
+    <assembly_step>
+      <step_name />
+      <step_out_qty />
+    </assembly_step>
+    <test_insertion>
+      <insertion_name />
+      <insertion_qty_out />
+    </test_insertion>
+    <target_lot>
+      <tgt_lot_type />
+      <tgt_lot_number />
+      <tgt_lot_category />
+      <tgt_lot_qty />
+      <tgt_device />
+      <tgt_location />
+    </target_lot>
+    <comp_lot>
+      <comp_lot_type>PS</comp_lot_type>
+      <comp_lot_number>ATECPI010</comp_lot_number>
+      <comp_lot_category>NORMAL</comp_lot_category>
+      <comp_lot_qty>4800</comp_lot_qty>
+      <comp_device>MM74HC00-XBA31187-WDQ</comp_device>
+      <comp_location>DIWH</comp_location>
+    </comp_lot>
+    <date_code>
+      <date_code1 />
+      <date_code2 />
+    </date_code>
+    <reject>
+      <reject_code />
+      <reject_location />
+      <reject_qty />
+      <reject_comment />
+    </reject>
+    <bonus>
+      <bonus_code />
+      <bonus_location />
+      <bonus_qty />
+      <bonus_comment />
+    </bonus>
+    <commit_date>
+      <commit_month />
+      <commit_day />
+      <commit_year />
+      <commit_time />
+    </commit_date>
+    <hold_lot>
+      <held_reason />
+      <held_location />
+      <held_comment />
+    </hold_lot>
+  </transaction>
+  <transaction>
+    <transaction_code>LOTMOVE</transaction_code>
+    <transaction_date>
+      <tran_month>04</tran_month>
+      <tran_day>11</tran_day>
+      <tran_year>2017</tran_year>
+      <tran_time>09:49:00</tran_time>
+    </transaction_date>
+    <invoice>
+      <invoice_number />
+      <target_location />
+    </invoice>
+    <customer_lot>
+      <cust_lot_type>PS</cust_lot_type>
+      <cust_lot_num>ATECPI009</cust_lot_num>
+    </customer_lot>
+    <source_lot>
+      <src_lot_type>PS</src_lot_type>
+      <src_lot_number>CUG130010</src_lot_number>
+      <src_lot_category>NORMAL</src_lot_category>
+      <src_lot_qty>4800</src_lot_qty>
+      <src_device>MM74HC00MTC-ASY</src_device>
+      <src_location>DIAL</src_location>
+    </source_lot>
+    <assembly_step>
+      <step_name />
+      <step_out_qty />
+    </assembly_step>
+    <test_insertion>
+      <insertion_name />
+      <insertion_qty_out />
+    </test_insertion>
+    <target_lot>
+      <tgt_lot_type>PS</tgt_lot_type>
+      <tgt_lot_number>CUG130010</tgt_lot_number>
+      <tgt_lot_category>NORMAL</tgt_lot_category>
+      <tgt_lot_qty>4800</tgt_lot_qty>
+      <tgt_device>MM74HC00MTC-ASY</tgt_device>
+      <tgt_location>ASSY</tgt_location>
+    </target_lot>
+    <comp_lot>
+      <comp_lot_type />
+      <comp_lot_number />
+      <comp_lot_category />
+      <comp_lot_qty />
+      <comp_device />
+      <comp_location />
+    </comp_lot>
+    <date_code>
+      <date_code1 />
+      <date_code2 />
+    </date_code>
+    <reject>
+      <reject_code />
+      <reject_location />
+      <reject_qty />
+      <reject_comment />
+    </reject>
+    <bonus>
+      <bonus_code />
+      <bonus_location />
+      <bonus_qty />
+      <bonus_comment />
+    </bonus>
+    <commit_date>
+      <commit_month />
+      <commit_day />
+      <commit_year />
+      <commit_time />
+    </commit_date>
+    <hold_lot>
+      <held_reason />
+      <held_location />
+      <held_comment />
+    </hold_lot>
+  </transaction>
+  <transaction>
+    <transaction_code>LOTREJCT</transaction_code>
+    <transaction_date>
+      <tran_month>04</tran_month>
+      <tran_day>11</tran_day>
+      <tran_year>2017</tran_year>
+      <tran_time>09:50:00</tran_time>
+    </transaction_date>
+    <invoice>
+      <invoice_number />
+      <target_location />
+    </invoice>
+    <customer_lot>
+      <cust_lot_type>PS</cust_lot_type>
+      <cust_lot_num>CUG130010</cust_lot_num>
+    </customer_lot>
+    <source_lot>
+      <src_lot_type>PS</src_lot_type>
+      <src_lot_number>CUG130010</src_lot_number>
+      <src_lot_category>NORMAL</src_lot_category>
+      <src_lot_qty>4800</src_lot_qty>
+      <src_device>MM74HC00MTC-ASY</src_device>
+      <src_location>ASSY</src_location>
+    </source_lot>
+    <assembly_step>
+      <step_name />
+      <step_out_qty />
+    </assembly_step>
+    <test_insertion>
+      <insertion_name />
+      <insertion_qty_out />
+    </test_insertion>
+    <target_lot>
+      <tgt_lot_type />
+      <tgt_lot_number />
+      <tgt_lot_category />
+      <tgt_lot_qty />
+      <tgt_device />
+      <tgt_location />
+    </target_lot>
+    <comp_lot>
+      <comp_lot_type />
+      <comp_lot_number />
+      <comp_lot_category />
+      <comp_lot_qty />
+      <comp_device />
+      <comp_location />
+    </comp_lot>
+    <date_code>
+      <date_code1 />
+      <date_code2 />
+    </date_code>
+    <reject>
+      <reject_code>SC</reject_code>
+      <reject_location>ASSY</reject_location>
+      <reject_qty>370</reject_qty>
+      <reject_comment>Assembly Reject</reject_comment>
+    </reject>
+    <bonus>
+      <bonus_code />
+      <bonus_location />
+      <bonus_qty />
+      <bonus_comment />
+    </bonus>
+    <commit_date>
+      <commit_month />
+      <commit_day />
+      <commit_year />
+      <commit_time />
+    </commit_date>
+    <hold_lot>
+      <held_reason />
+      <held_location />
+      <held_comment />
+    </hold_lot>
+  </transaction>
+  <transaction>
+    <transaction_code>LOTHOLD</transaction_code>
+    <transaction_date>
+      <tran_month>04</tran_month>
+      <tran_day>11</tran_day>
+      <tran_year>2017</tran_year>
+      <tran_time>09:52:00</tran_time>
+    </transaction_date>
+    <invoice>
+      <invoice_number />
+      <target_location />
+    </invoice>
+    <customer_lot>
+      <cust_lot_type>PS</cust_lot_type>
+      <cust_lot_num>CUG130010</cust_lot_num>
+    </customer_lot>
+    <source_lot>
+      <src_lot_type>PS</src_lot_type>
+      <src_lot_number>CUG130010</src_lot_number>
+      <src_lot_category>NORMAL</src_lot_category>
+      <src_lot_qty>4430</src_lot_qty>
+      <src_device>MM74HC00MTC-ASY</src_device>
+      <src_location>ASSY</src_location>
+    </source_lot>
+    <assembly_step>
+      <step_name />
+      <step_out_qty />
+    </assembly_step>
+    <test_insertion>
+      <insertion_name />
+      <insertion_qty_out />
+    </test_insertion>
+    <target_lot>
+      <tgt_lot_type />
+      <tgt_lot_number />
+      <tgt_lot_category />
+      <tgt_lot_qty />
+      <tgt_device />
+      <tgt_location />
+    </target_lot>
+    <comp_lot>
+      <comp_lot_type />
+      <comp_lot_number />
+      <comp_lot_category />
+      <comp_lot_qty />
+      <comp_device />
+      <comp_location />
+    </comp_lot>
+    <date_code>
+      <date_code1 />
+      <date_code2 />
+    </date_code>
+    <reject>
+      <reject_code />
+      <reject_location />
+      <reject_qty />
+      <reject_comment />
+    </reject>
+    <bonus>
+      <bonus_code />
+      <bonus_location />
+      <bonus_qty />
+      <bonus_comment />
+    </bonus>
+    <commit_date>
+      <commit_month />
+      <commit_day />
+      <commit_year />
+      <commit_time />
+    </commit_date>
+    <hold_lot>
+      <held_reason>ENG</held_reason>
+      <held_location>ASSY</held_location>
+      <held_comment>For TEST</held_comment>
+    </hold_lot>
+  </transaction>
+  <transaction>
+    <transaction_code>RELEASE</transaction_code>
+    <transaction_date>
+      <tran_month>04</tran_month>
+      <tran_day>11</tran_day>
+      <tran_year>2017</tran_year>
+      <tran_time>09:55:00</tran_time>
+    </transaction_date>
+    <invoice>
+      <invoice_number />
+      <target_location />
+    </invoice>
+    <customer_lot>
+      <cust_lot_type>PS</cust_lot_type>
+      <cust_lot_num>CUG130010</cust_lot_num>
+    </customer_lot>
+    <source_lot>
+      <src_lot_type>PS</src_lot_type>
+      <src_lot_number>CUG130010</src_lot_number>
+      <src_lot_category>NORMAL</src_lot_category>
+      <src_lot_qty>4430</src_lot_qty>
+      <src_device>MM74HC00MTC-ASY</src_device>
+      <src_location>ASSY</src_location>
+    </source_lot>
+    <assembly_step>
+      <step_name />
+      <step_out_qty />
+    </assembly_step>
+    <test_insertion>
+      <insertion_name />
+      <insertion_qty_out />
+    </test_insertion>
+    <target_lot>
+      <tgt_lot_type />
+      <tgt_lot_number />
+      <tgt_lot_category />
+      <tgt_lot_qty />
+      <tgt_device />
+      <tgt_location />
+    </target_lot>
+    <comp_lot>
+      <comp_lot_type />
+      <comp_lot_number />
+      <comp_lot_category />
+      <comp_lot_qty />
+      <comp_device />
+      <comp_location />
+    </comp_lot>
+    <date_code>
+      <date_code1 />
+      <date_code2 />
+    </date_code>
+    <reject>
+      <reject_code />
+      <reject_location />
+      <reject_qty />
+      <reject_comment />
+    </reject>
+    <bonus>
+      <bonus_code />
+      <bonus_location />
+      <bonus_qty />
+      <bonus_comment />
+    </bonus>
+    <commit_date>
+      <commit_month />
+      <commit_day />
+      <commit_year />
+      <commit_time />
+    </commit_date>
+    <hold_lot>
+      <held_reason />
+      <held_location />
+      <held_comment />
+    </hold_lot>
+  </transaction>
+  <transaction>
+    <transaction_code>UPDTATTR</transaction_code>
+    <transaction_date>
+      <tran_month>04</tran_month>
+      <tran_day>11</tran_day>
+      <tran_year>2017</tran_year>
+      <tran_time>09:57:35</tran_time>
+    </transaction_date>
+    <invoice>
+      <invoice_number />
+      <target_location />
+    </invoice>
+    <customer_lot>
+      <cust_lot_type>PS</cust_lot_type>
+      <cust_lot_num>CUG130010</cust_lot_num>
+    </customer_lot>
+    <source_lot>
+      <src_lot_type>PS</src_lot_type>
+      <src_lot_number>CUG130010</src_lot_number>
+      <src_lot_category>NORMAL</src_lot_category>
+      <src_lot_qty>4430</src_lot_qty>
+      <src_device>MM74HC00MTC-ASY</src_device>
+      <src_location>ASSY</src_location>
+    </source_lot>
+    <assembly_step>
+      <step_name />
+      <step_out_qty />
+    </assembly_step>
+    <test_insertion>
+      <insertion_name />
+      <insertion_qty_out />
+    </test_insertion>
+    <target_lot>
+      <tgt_lot_type />
+      <tgt_lot_number />
+      <tgt_lot_category />
+      <tgt_lot_qty />
+      <tgt_device />
+      <tgt_location />
+    </target_lot>
+    <comp_lot>
+      <comp_lot_type />
+      <comp_lot_number />
+      <comp_lot_category />
+      <comp_lot_qty />
+      <comp_device />
+      <comp_location />
+    </comp_lot>
+    <date_code>
+      <date_code1>DATECODE1</date_code1>
+      <date_code2>1714</date_code2>
+    </date_code>
+    <reject>
+      <reject_code />
+      <reject_location />
+      <reject_qty />
+      <reject_comment />
+    </reject>
+    <bonus>
+      <bonus_code />
+      <bonus_location />
+      <bonus_qty />
+      <bonus_comment />
+    </bonus>
+    <commit_date>
+      <commit_month />
+      <commit_day />
+      <commit_year />
+      <commit_time />
+    </commit_date>
+    <hold_lot>
+      <held_reason />
+      <held_location />
+      <held_comment />
+    </hold_lot>
+  </transaction>
+  <transaction>
+    <transaction_code>LOTMOVE</transaction_code>
+    <transaction_date>
+      <tran_month>04</tran_month>
+      <tran_day>11</tran_day>
+      <tran_year>2017</tran_year>
+      <tran_time>10:30:19</tran_time>
+    </transaction_date>
+    <invoice>
+      <invoice_number />
+      <target_location />
+    </invoice>
+    <customer_lot>
+      <cust_lot_type>PS</cust_lot_type>
+      <cust_lot_num>ATECPI009</cust_lot_num>
+    </customer_lot>
+    <source_lot>
+      <src_lot_type>PS</src_lot_type>
+      <src_lot_number>CUG130010</src_lot_number>
+      <src_lot_category>NORMAL</src_lot_category>
+      <src_lot_qty>4430</src_lot_qty>
+      <src_device>MM74HC00MTC-ASY</src_device>
+      <src_location>ASSY</src_location>
+    </source_lot>
+    <assembly_step>
+      <step_name />
+      <step_out_qty />
+    </assembly_step>
+    <test_insertion>
+      <insertion_name />
+      <insertion_qty_out />
+    </test_insertion>
+    <target_lot>
+      <tgt_lot_type>PS</tgt_lot_type>
+      <tgt_lot_number>CUG130010</tgt_lot_number>
+      <tgt_lot_category>NORMAL</tgt_lot_category>
+      <tgt_lot_qty>4430</tgt_lot_qty>
+      <tgt_device>MM74HC00MTC-ASY</tgt_device>
+      <tgt_location>RSSH</tgt_location>
+    </target_lot>
+    <comp_lot>
+      <comp_lot_type />
+      <comp_lot_number />
+      <comp_lot_category />
+      <comp_lot_qty />
+      <comp_device />
+      <comp_location />
+    </comp_lot>
+    <date_code>
+      <date_code1 />
+      <date_code2 />
+    </date_code>
+    <reject>
+      <reject_code />
+      <reject_location />
+      <reject_qty />
+      <reject_comment />
+    </reject>
+    <bonus>
+      <bonus_code />
+      <bonus_location />
+      <bonus_qty />
+      <bonus_comment />
+    </bonus>
+    <commit_date>
+      <commit_month />
+      <commit_day />
+      <commit_year />
+      <commit_time />
+    </commit_date>
+    <hold_lot>
+      <held_reason />
+      <held_location />
+      <held_comment />
+    </hold_lot>
+  </transaction>
+  <transaction>
+    <transaction_code>LOTSHIP</transaction_code>
+    <transaction_date>
+      <tran_month>04</tran_month>
+      <tran_day>11</tran_day>
+      <tran_year>2017</tran_year>
+      <tran_time>10:35:00</tran_time>
+    </transaction_date>
+    <invoice>
+      <invoice_number>INV1712008</invoice_number>
+      <target_location>MGDCRS</target_location>
+    </invoice>
+    <customer_lot>
+      <cust_lot_type>PS</cust_lot_type>
+      <cust_lot_num>CUG130010</cust_lot_num>
+    </customer_lot>
+    <source_lot>
+      <src_lot_type>PS</src_lot_type>
+      <src_lot_number>CUG130010</src_lot_number>
+      <src_lot_category>NORMAL</src_lot_category>
+      <src_lot_qty>4430</src_lot_qty>
+      <src_device>MM74HC00MTC-ASY</src_device>
+      <src_location>RSSH</src_location>
+    </source_lot>
+    <assembly_step>
+      <step_name />
+      <step_out_qty />
+    </assembly_step>
+    <test_insertion>
+      <insertion_name />
+      <insertion_qty_out />
+    </test_insertion>
+    <target_lot>
+      <tgt_lot_type />
+      <tgt_lot_number />
+      <tgt_lot_category />
+      <tgt_lot_qty />
+      <tgt_device />
+      <tgt_location />
+    </target_lot>
+    <comp_lot>
+      <comp_lot_type />
+      <comp_lot_number />
+      <comp_lot_category />
+      <comp_lot_qty />
+      <comp_device />
+      <comp_location />
+    </comp_lot>
+    <date_code>
+      <date_code1 />
+      <date_code2 />
+    </date_code>
+    <reject>
+      <reject_code />
+      <reject_location />
+      <reject_qty />
+      <reject_comment />
+    </reject>
+    <bonus>
+      <bonus_code />
+      <bonus_location />
+      <bonus_qty />
+      <bonus_comment />
+    </bonus>
+    <commit_date>
+      <commit_month />
+      <commit_day />
+      <commit_year />
+      <commit_time />
+    </commit_date>
+    <hold_lot>
+      <held_reason />
+      <held_location />
+      <held_comment />
+    </hold_lot>
+  </transaction>
+  <transaction>
+    <transaction_code>UNLOAD</transaction_code>
+    <transaction_date>
+      <tran_month>04</tran_month>
+      <tran_day>11</tran_day>
+      <tran_year>2017</tran_year>
+      <tran_time>10:40:45</tran_time>
+    </transaction_date>
+    <invoice>
+      <invoice_number />
+      <target_location />
+    </invoice>
+    <customer_lot>
+      <cust_lot_type>PS</cust_lot_type>
+      <cust_lot_num>ATECPI010</cust_lot_num>
+    </customer_lot>
+    <source_lot>
+      <src_lot_type>PS</src_lot_type>
+      <src_lot_number>ATECPI010</src_lot_number>
+      <src_lot_category>NORMAL</src_lot_category>
+      <src_lot_qty>800</src_lot_qty>
+      <src_device>MM74HC00-XBA31187-WDQ</src_device>
+      <src_location>DIWH</src_location>
+    </source_lot>
+    <assembly_step>
+      <step_name />
+      <step_out_qty />
+    </assembly_step>
+    <test_insertion>
+      <insertion_name />
+      <insertion_qty_out />
+    </test_insertion>
+    <target_lot>
+      <tgt_lot_type>PS</tgt_lot_type>
+      <tgt_lot_number>ATECPI010</tgt_lot_number>
+      <tgt_lot_category>NORMAL</tgt_lot_category>
+      <tgt_lot_qty>800</tgt_lot_qty>
+      <tgt_device>MM74HC00-XBA31187-WDQ</tgt_device>
+      <tgt_location>LNBK</tgt_location>
+    </target_lot>
+    <comp_lot>
+      <comp_lot_type />
+      <comp_lot_number />
+      <comp_lot_category />
+      <comp_lot_qty />
+      <comp_device />
+      <comp_location />
+    </comp_lot>
+    <date_code>
+      <date_code1 />
+      <date_code2 />
+    </date_code>
+    <reject>
+      <reject_code />
+      <reject_location />
+      <reject_qty />
+      <reject_comment />
+    </reject>
+    <bonus>
+      <bonus_code />
+      <bonus_location />
+      <bonus_qty />
+      <bonus_comment />
+    </bonus>
+    <commit_date>
+      <commit_month />
+      <commit_day />
+      <commit_year />
+      <commit_time />
+    </commit_date>
+    <hold_lot>
+      <held_reason />
+      <held_location />
+      <held_comment />
+    </hold_lot>
+  </transaction>
+  <transaction>
+    <transaction_code>BULKMOVE</transaction_code>
+    <transaction_date>
+      <tran_month>04</tran_month>
+      <tran_day>11</tran_day>
+      <tran_year>2017</tran_year>
+      <tran_time>10:41:45</tran_time>
+    </transaction_date>
+    <invoice>
+      <invoice_number />
+      <target_location />
+    </invoice>
+    <customer_lot>
+      <cust_lot_type>PS</cust_lot_type>
+      <cust_lot_num>ATECPI010</cust_lot_num>
+    </customer_lot>
+    <source_lot>
+      <src_lot_type>PS</src_lot_type>
+      <src_lot_number>ATECPI010</src_lot_number>
+      <src_lot_category>NORMAL</src_lot_category>
+      <src_lot_qty>800</src_lot_qty>
+      <src_device>MM74HC00-XBA31187-WDQ</src_device>
+      <src_location>LNBK</src_location>
+    </source_lot>
+    <assembly_step>
+      <step_name />
+      <step_out_qty />
+    </assembly_step>
+    <test_insertion>
+      <insertion_name />
+      <insertion_qty_out />
+    </test_insertion>
+    <target_lot>
+      <tgt_lot_type>PS</tgt_lot_type>
+      <tgt_lot_number>ATECPI010</tgt_lot_number>
+      <tgt_lot_category>NORMAL</tgt_lot_category>
+      <tgt_lot_qty>800</tgt_lot_qty>
+      <tgt_device>MM74HC00-XBA31187-WDQ</tgt_device>
+      <tgt_location>SCRAP</tgt_location>
+    </target_lot>
+    <comp_lot>
+      <comp_lot_type />
+      <comp_lot_number />
+      <comp_lot_category />
+      <comp_lot_qty />
+      <comp_device />
+      <comp_location />
+    </comp_lot>
+    <date_code>
+      <date_code1 />
+      <date_code2 />
+    </date_code>
+    <reject>
+      <reject_code />
+      <reject_location />
+      <reject_qty />
+      <reject_comment />
+    </reject>
+    <bonus>
+      <bonus_code />
+      <bonus_location />
+      <bonus_qty />
+      <bonus_comment />
+    </bonus>
+    <commit_date>
+      <commit_month />
+      <commit_day />
+      <commit_year />
+      <commit_time />
+    </commit_date>
+    <hold_lot>
+      <held_reason />
+      <held_location />
+      <held_comment />
+    </hold_lot>
+  </transaction>
+</dataexchange>

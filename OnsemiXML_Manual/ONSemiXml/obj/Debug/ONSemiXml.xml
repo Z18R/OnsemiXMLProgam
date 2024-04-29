@@ -1,0 +1,17 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ONSemiXml
+</name>
+</assembly>
+<members>
+<member name="T:ONSemiXml.SQLHandler">
+	<summary>
+ Author:         Ramil Grajo
+ Created Date:   1/24/2013
+ Purpose:        Revised SQL_Class.
+ </summary>
+</member>
+</members>
+</doc>

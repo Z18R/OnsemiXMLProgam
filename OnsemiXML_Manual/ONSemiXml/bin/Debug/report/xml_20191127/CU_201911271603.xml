@@ -1,0 +1,3506 @@
+<dataexchange>
+  <subcon>
+    <inv_org>PH4</inv_org>
+    <subcon_name>ATEC</subcon_name>
+  </subcon>
+  <transaction>
+    <transaction_code>LOTSPLIT</transaction_code>
+    <transaction_date>
+      <tran_month>11</tran_month>
+      <tran_day>27</tran_day>
+      <tran_year>2019</tran_year>
+      <tran_time>09:15:24</tran_time>
+    </transaction_date>
+    <invoice>
+      <invoice_number />
+      <target_location />
+    </invoice>
+    <customer_lot>
+      <cust_lot_type>PS</cust_lot_type>
+      <cust_lot_num>CUJ450234</cust_lot_num>
+    </customer_lot>
+    <source_lot>
+      <src_lot_type>PS</src_lot_type>
+      <src_lot_number>CUJ450234</src_lot_number>
+      <src_lot_category>NORMAL</src_lot_category>
+      <src_lot_qty>12452</src_lot_qty>
+      <src_device>74LCX244MTCX</src_device>
+      <src_location>TEST</src_location>
+    </source_lot>
+    <assembly_step>
+      <step_name />
+      <step_out_qty />
+    </assembly_step>
+    <test_insertion>
+      <insertion_name />
+      <insertion_qty_out />
+    </test_insertion>
+    <target_lot>
+      <tgt_lot_type>PS</tgt_lot_type>
+      <tgt_lot_number>CUJ450234A</tgt_lot_number>
+      <tgt_lot_category>PARTIAL</tgt_lot_category>
+      <tgt_lot_qty>1646</tgt_lot_qty>
+      <tgt_device>74LCX244MTCX</tgt_device>
+      <tgt_location>TEST</tgt_location>
+    </target_lot>
+    <comp_lot>
+      <comp_lot_type />
+      <comp_lot_number />
+      <comp_lot_category />
+      <comp_lot_qty />
+      <comp_device />
+      <comp_location />
+    </comp_lot>
+    <date_code>
+      <date_code1 />
+      <date_code2 />
+    </date_code>
+    <reject>
+      <reject_code />
+      <reject_location />
+      <reject_qty />
+      <reject_comment />
+    </reject>
+    <bonus>
+      <bonus_code />
+      <bonus_location />
+      <bonus_qty />
+      <bonus_comment />
+    </bonus>
+    <commit_date>
+      <commit_month />
+      <commit_day />
+      <commit_year />
+      <commit_time />
+    </commit_date>
+    <hold_lot>
+      <held_reason />
+      <held_location />
+      <held_comment />
+    </hold_lot>
+  </transaction>
+  <transaction>
+    <transaction_code>LOTMERGE</transaction_code>
+    <transaction_date>
+      <tran_month>11</tran_month>
+      <tran_day>27</tran_day>
+      <tran_year>2019</tran_year>
+      <tran_time>09:16:24</tran_time>
+    </transaction_date>
+    <invoice>
+      <invoice_number />
+      <target_location />
+    </invoice>
+    <customer_lot>
+      <cust_lot_type>PS</cust_lot_type>
+      <cust_lot_num>CUJ450246A</cust_lot_num>
+    </customer_lot>
+    <source_lot>
+      <src_lot_type>PS</src_lot_type>
+      <src_lot_number>CUJ450246A</src_lot_number>
+      <src_lot_category>PARTIAL</src_lot_category>
+      <src_lot_qty>1694</src_lot_qty>
+      <src_device>74LCX244MTCX</src_device>
+      <src_location>TEST</src_location>
+    </source_lot>
+    <assembly_step>
+      <step_name />
+      <step_out_qty />
+    </assembly_step>
+    <test_insertion>
+      <insertion_name />
+      <insertion_qty_out />
+    </test_insertion>
+    <target_lot>
+      <tgt_lot_type>PS</tgt_lot_type>
+      <tgt_lot_number>CUJ450234</tgt_lot_number>
+      <tgt_lot_category>NORMAL</tgt_lot_category>
+      <tgt_lot_qty>10806</tgt_lot_qty>
+      <tgt_device>74LCX244MTCX</tgt_device>
+      <tgt_location>TEST</tgt_location>
+    </target_lot>
+    <comp_lot>
+      <comp_lot_type />
+      <comp_lot_number />
+      <comp_lot_category />
+      <comp_lot_qty />
+      <comp_device />
+      <comp_location />
+    </comp_lot>
+    <date_code>
+      <date_code1 />
+      <date_code2 />
+    </date_code>
+    <reject>
+      <reject_code />
+      <reject_location />
+      <reject_qty />
+      <reject_comment />
+    </reject>
+    <bonus>
+      <bonus_code />
+      <bonus_location />
+      <bonus_qty />
+      <bonus_comment />
+    </bonus>
+    <commit_date>
+      <commit_month />
+      <commit_day />
+      <commit_year />
+      <commit_time />
+    </commit_date>
+    <hold_lot>
+      <held_reason />
+      <held_location />
+      <held_comment />
+    </hold_lot>
+  </transaction>
+  <transaction>
+    <transaction_code>LOTHOLD</transaction_code>
+    <transaction_date>
+      <tran_month>11</tran_month>
+      <tran_day>27</tran_day>
+      <tran_year>2019</tran_year>
+      <tran_time>09:24:00</tran_time>
+    </transaction_date>
+    <invoice>
+      <invoice_number />
+      <target_location />
+    </invoice>
+    <customer_lot>
+      <cust_lot_type>PS</cust_lot_type>
+      <cust_lot_num>CUJ460094</cust_lot_num>
+    </customer_lot>
+    <source_lot>
+      <src_lot_type>PS</src_lot_type>
+      <src_lot_number>CUJ460094</src_lot_number>
+      <src_lot_category>NORMAL</src_lot_category>
+      <src_lot_qty>5009</src_lot_qty>
+      <src_device>74VHC74MTCX</src_device>
+      <src_location>TEST</src_location>
+    </source_lot>
+    <assembly_step>
+      <step_name />
+      <step_out_qty />
+    </assembly_step>
+    <test_insertion>
+      <insertion_name />
+      <insertion_qty_out />
+    </test_insertion>
+    <target_lot>
+      <tgt_lot_type />
+      <tgt_lot_number />
+      <tgt_lot_category />
+      <tgt_lot_qty />
+      <tgt_device />
+      <tgt_location />
+    </target_lot>
+    <comp_lot>
+      <comp_lot_type />
+      <comp_lot_number />
+      <comp_lot_category />
+      <comp_lot_qty />
+      <comp_device />
+      <comp_location />
+    </comp_lot>
+    <date_code>
+      <date_code1 />
+      <date_code2 />
+    </date_code>
+    <reject>
+      <reject_code />
+      <reject_location />
+      <reject_qty />
+      <reject_comment />
+    </reject>
+    <bonus>
+      <bonus_code />
+      <bonus_location />
+      <bonus_qty />
+      <bonus_comment />
+    </bonus>
+    <commit_date>
+      <commit_month />
+      <commit_day />
+      <commit_year />
+      <commit_time />
+    </commit_date>
+    <hold_lot>
+      <held_reason>MFG</held_reason>
+      <held_location>TEST</held_location>
+      <held_comment>Low yield due to bin3</held_comment>
+    </hold_lot>
+  </transaction>
+  <transaction>
+    <transaction_code>LOTREJCT</transaction_code>
+    <transaction_date>
+      <tran_month>11</tran_month>
+      <tran_day>27</tran_day>
+      <tran_year>2019</tran_year>
+      <tran_time>09:28:25</tran_time>
+    </transaction_date>
+    <invoice>
+      <invoice_number />
+      <target_location />
+    </invoice>
+    <customer_lot>
+      <cust_lot_type>PN</cust_lot_type>
+      <cust_lot_num>CUJ440085</cust_lot_num>
+    </customer_lot>
+    <source_lot>
+      <src_lot_type>PN</src_lot_type>
+      <src_lot_number>CUJ440085</src_lot_number>
+      <src_lot_category>NORMAL</src_lot_category>
+      <src_lot_qty>3922</src_lot_qty>
+      <src_device>FSL126HR</src_device>
+      <src_location>TEST</src_location>
+    </source_lot>
+    <assembly_step>
+      <step_name />
+      <step_out_qty />
+    </assembly_step>
+    <test_insertion>
+      <insertion_name />
+      <insertion_qty_out />
+    </test_insertion>
+    <target_lot>
+      <tgt_lot_type />
+      <tgt_lot_number />
+      <tgt_lot_category />
+      <tgt_lot_qty />
+      <tgt_device />
+      <tgt_location />
+    </target_lot>
+    <comp_lot>
+      <comp_lot_type />
+      <comp_lot_number />
+      <comp_lot_category />
+      <comp_lot_qty />
+      <comp_device />
+      <comp_location />
+    </comp_lot>
+    <date_code>
+      <date_code1 />
+      <date_code2 />
+    </date_code>
+    <reject>
+      <reject_code>SC</reject_code>
+      <reject_location>TEST</reject_location>
+      <reject_qty>216</reject_qty>
+      <reject_comment>Test Reject</reject_comment>
+    </reject>
+    <bonus>
+      <bonus_code />
+      <bonus_location />
+      <bonus_qty />
+      <bonus_comment />
+    </bonus>
+    <commit_date>
+      <commit_month />
+      <commit_day />
+      <commit_year />
+      <commit_time />
+    </commit_date>
+    <hold_lot>
+      <held_reason />
+      <held_location />
+      <held_comment />
+    </hold_lot>
+  </transaction>
+  <transaction>
+    <transaction_code>LOTREJCT</transaction_code>
+    <transaction_date>
+      <tran_month>11</tran_month>
+      <tran_day>27</tran_day>
+      <tran_year>2019</tran_year>
+      <tran_time>09:29:10</tran_time>
+    </transaction_date>
+    <invoice>
+      <invoice_number />
+      <target_location />
+    </invoice>
+    <customer_lot>
+      <cust_lot_type>PN</cust_lot_type>
+      <cust_lot_num>CUJ440086</cust_lot_num>
+    </customer_lot>
+    <source_lot>
+      <src_lot_type>PN</src_lot_type>
+      <src_lot_number>CUJ440086</src_lot_number>
+      <src_lot_category>NORMAL</src_lot_category>
+      <src_lot_qty>3276</src_lot_qty>
+      <src_device>FSL126HR</src_device>
+      <src_location>TEST</src_location>
+    </source_lot>
+    <assembly_step>
+      <step_name />
+      <step_out_qty />
+    </assembly_step>
+    <test_insertion>
+      <insertion_name />
+      <insertion_qty_out />
+    </test_insertion>
+    <target_lot>
+      <tgt_lot_type />
+      <tgt_lot_number />
+      <tgt_lot_category />
+      <tgt_lot_qty />
+      <tgt_device />
+      <tgt_location />
+    </target_lot>
+    <comp_lot>
+      <comp_lot_type />
+      <comp_lot_number />
+      <comp_lot_category />
+      <comp_lot_qty />
+      <comp_device />
+      <comp_location />
+    </comp_lot>
+    <date_code>
+      <date_code1 />
+      <date_code2 />
+    </date_code>
+    <reject>
+      <reject_code>SC</reject_code>
+      <reject_location>TEST</reject_location>
+      <reject_qty>130</reject_qty>
+      <reject_comment>Test Reject</reject_comment>
+    </reject>
+    <bonus>
+      <bonus_code />
+      <bonus_location />
+      <bonus_qty />
+      <bonus_comment />
+    </bonus>
+    <commit_date>
+      <commit_month />
+      <commit_day />
+      <commit_year />
+      <commit_time />
+    </commit_date>
+    <hold_lot>
+      <held_reason />
+      <held_location />
+      <held_comment />
+    </hold_lot>
+  </transaction>
+  <transaction>
+    <transaction_code>LOTSPLIT</transaction_code>
+    <transaction_date>
+      <tran_month>11</tran_month>
+      <tran_day>27</tran_day>
+      <tran_year>2019</tran_year>
+      <tran_time>09:29:21</tran_time>
+    </transaction_date>
+    <invoice>
+      <invoice_number />
+      <target_location />
+    </invoice>
+    <customer_lot>
+      <cust_lot_type>PN</cust_lot_type>
+      <cust_lot_num>CUJ440085</cust_lot_num>
+    </customer_lot>
+    <source_lot>
+      <src_lot_type>PN</src_lot_type>
+      <src_lot_number>CUJ440085</src_lot_number>
+      <src_lot_category>NORMAL</src_lot_category>
+      <src_lot_qty>3706</src_lot_qty>
+      <src_device>FSL126HR</src_device>
+      <src_location>TEST</src_location>
+    </source_lot>
+    <assembly_step>
+      <step_name />
+      <step_out_qty />
+    </assembly_step>
+    <test_insertion>
+      <insertion_name />
+      <insertion_qty_out />
+    </test_insertion>
+    <target_lot>
+      <tgt_lot_type>PN</tgt_lot_type>
+      <tgt_lot_number>CUJ440085A</tgt_lot_number>
+      <tgt_lot_category>PARTIAL</tgt_lot_category>
+      <tgt_lot_qty>706</tgt_lot_qty>
+      <tgt_device>FSL126HR</tgt_device>
+      <tgt_location>TEST</tgt_location>
+    </target_lot>
+    <comp_lot>
+      <comp_lot_type />
+      <comp_lot_number />
+      <comp_lot_category />
+      <comp_lot_qty />
+      <comp_device />
+      <comp_location />
+    </comp_lot>
+    <date_code>
+      <date_code1 />
+      <date_code2 />
+    </date_code>
+    <reject>
+      <reject_code />
+      <reject_location />
+      <reject_qty />
+      <reject_comment />
+    </reject>
+    <bonus>
+      <bonus_code />
+      <bonus_location />
+      <bonus_qty />
+      <bonus_comment />
+    </bonus>
+    <commit_date>
+      <commit_month />
+      <commit_day />
+      <commit_year />
+      <commit_time />
+    </commit_date>
+    <hold_lot>
+      <held_reason />
+      <held_location />
+      <held_comment />
+    </hold_lot>
+  </transaction>
+  <transaction>
+    <transaction_code>LOTSPLIT</transaction_code>
+    <transaction_date>
+      <tran_month>11</tran_month>
+      <tran_day>27</tran_day>
+      <tran_year>2019</tran_year>
+      <tran_time>09:33:24</tran_time>
+    </transaction_date>
+    <invoice>
+      <invoice_number />
+      <target_location />
+    </invoice>
+    <customer_lot>
+      <cust_lot_type>PN</cust_lot_type>
+      <cust_lot_num>CUJ440194</cust_lot_num>
+    </customer_lot>
+    <source_lot>
+      <src_lot_type>PN</src_lot_type>
+      <src_lot_number>CUJ440194</src_lot_number>
+      <src_lot_category>NORMAL</src_lot_category>
+      <src_lot_qty>11057</src_lot_qty>
+      <src_device>74LCXR2245MTC</src_device>
+      <src_location>TEST</src_location>
+    </source_lot>
+    <assembly_step>
+      <step_name />
+      <step_out_qty />
+    </assembly_step>
+    <test_insertion>
+      <insertion_name />
+      <insertion_qty_out />
+    </test_insertion>
+    <target_lot>
+      <tgt_lot_type>PN</tgt_lot_type>
+      <tgt_lot_number>CUJ440194A</tgt_lot_number>
+      <tgt_lot_category>PARTIAL</tgt_lot_category>
+      <tgt_lot_qty>107</tgt_lot_qty>
+      <tgt_device>74LCXR2245MTC</tgt_device>
+      <tgt_location>TEST</tgt_location>
+    </target_lot>
+    <comp_lot>
+      <comp_lot_type />
+      <comp_lot_number />
+      <comp_lot_category />
+      <comp_lot_qty />
+      <comp_device />
+      <comp_location />
+    </comp_lot>
+    <date_code>
+      <date_code1 />
+      <date_code2 />
+    </date_code>
+    <reject>
+      <reject_code />
+      <reject_location />
+      <reject_qty />
+      <reject_comment />
+    </reject>
+    <bonus>
+      <bonus_code />
+      <bonus_location />
+      <bonus_qty />
+      <bonus_comment />
+    </bonus>
+    <commit_date>
+      <commit_month />
+      <commit_day />
+      <commit_year />
+      <commit_time />
+    </commit_date>
+    <hold_lot>
+      <held_reason />
+      <held_location />
+      <held_comment />
+    </hold_lot>
+  </transaction>
+  <transaction>
+    <transaction_code>LOTSPLIT</transaction_code>
+    <transaction_date>
+      <tran_month>11</tran_month>
+      <tran_day>27</tran_day>
+      <tran_year>2019</tran_year>
+      <tran_time>09:33:41</tran_time>
+    </transaction_date>
+    <invoice>
+      <invoice_number />
+      <target_location />
+    </invoice>
+    <customer_lot>
+      <cust_lot_type>PN</cust_lot_type>
+      <cust_lot_num>CUJ440148</cust_lot_num>
+    </customer_lot>
+    <source_lot>
+      <src_lot_type>PN</src_lot_type>
+      <src_lot_number>CUJ440148</src_lot_number>
+      <src_lot_category>NORMAL</src_lot_category>
+      <src_lot_qty>12594</src_lot_qty>
+      <src_device>74VHC245MTCX</src_device>
+      <src_location>TEST</src_location>
+    </source_lot>
+    <assembly_step>
+      <step_name />
+      <step_out_qty />
+    </assembly_step>
+    <test_insertion>
+      <insertion_name />
+      <insertion_qty_out />
+    </test_insertion>
+    <target_lot>
+      <tgt_lot_type>PN</tgt_lot_type>
+      <tgt_lot_number>CUJ440148A</tgt_lot_number>
+      <tgt_lot_category>PARTIAL</tgt_lot_category>
+      <tgt_lot_qty>94</tgt_lot_qty>
+      <tgt_device>74VHC245MTCX</tgt_device>
+      <tgt_location>TEST</tgt_location>
+    </target_lot>
+    <comp_lot>
+      <comp_lot_type />
+      <comp_lot_number />
+      <comp_lot_category />
+      <comp_lot_qty />
+      <comp_device />
+      <comp_location />
+    </comp_lot>
+    <date_code>
+      <date_code1 />
+      <date_code2 />
+    </date_code>
+    <reject>
+      <reject_code />
+      <reject_location />
+      <reject_qty />
+      <reject_comment />
+    </reject>
+    <bonus>
+      <bonus_code />
+      <bonus_location />
+      <bonus_qty />
+      <bonus_comment />
+    </bonus>
+    <commit_date>
+      <commit_month />
+      <commit_day />
+      <commit_year />
+      <commit_time />
+    </commit_date>
+    <hold_lot>
+      <held_reason />
+      <held_location />
+      <held_comment />
+    </hold_lot>
+  </transaction>
+  <transaction>
+    <transaction_code>LOTREJCT</transaction_code>
+    <transaction_date>
+      <tran_month>11</tran_month>
+      <tran_day>27</tran_day>
+      <tran_year>2019</tran_year>
+      <tran_time>09:39:13</tran_time>
+    </transaction_date>
+    <invoice>
+      <invoice_number />
+      <target_location />
+    </invoice>
+    <customer_lot>
+      <cust_lot_type>PS</cust_lot_type>
+      <cust_lot_num>CUJ440189</cust_lot_num>
+    </customer_lot>
+    <source_lot>
+      <src_lot_type>PS</src_lot_type>
+      <src_lot_number>CUJ440189</src_lot_number>
+      <src_lot_category>NORMAL</src_lot_category>
+      <src_lot_qty>10828</src_lot_qty>
+      <src_device>74LCX244MTCX</src_device>
+      <src_location>TEST</src_location>
+    </source_lot>
+    <assembly_step>
+      <step_name />
+      <step_out_qty />
+    </assembly_step>
+    <test_insertion>
+      <insertion_name />
+      <insertion_qty_out />
+    </test_insertion>
+    <target_lot>
+      <tgt_lot_type />
+      <tgt_lot_number />
+      <tgt_lot_category />
+      <tgt_lot_qty />
+      <tgt_device />
+      <tgt_location />
+    </target_lot>
+    <comp_lot>
+      <comp_lot_type />
+      <comp_lot_number />
+      <comp_lot_category />
+      <comp_lot_qty />
+      <comp_device />
+      <comp_location />
+    </comp_lot>
+    <date_code>
+      <date_code1 />
+      <date_code2 />
+    </date_code>
+    <reject>
+      <reject_code>SC</reject_code>
+      <reject_location>TEST</reject_location>
+      <reject_qty>211</reject_qty>
+      <reject_comment>Test Reject</reject_comment>
+    </reject>
+    <bonus>
+      <bonus_code />
+      <bonus_location />
+      <bonus_qty />
+      <bonus_comment />
+    </bonus>
+    <commit_date>
+      <commit_month />
+      <commit_day />
+      <commit_year />
+      <commit_time />
+    </commit_date>
+    <hold_lot>
+      <held_reason />
+      <held_location />
+      <held_comment />
+    </hold_lot>
+  </transaction>
+  <transaction>
+    <transaction_code>LOTREJCT</transaction_code>
+    <transaction_date>
+      <tran_month>11</tran_month>
+      <tran_day>27</tran_day>
+      <tran_year>2019</tran_year>
+      <tran_time>10:15:02</tran_time>
+    </transaction_date>
+    <invoice>
+      <invoice_number />
+      <target_location />
+    </invoice>
+    <customer_lot>
+      <cust_lot_type>PS</cust_lot_type>
+      <cust_lot_num>CUJ430150</cust_lot_num>
+    </customer_lot>
+    <source_lot>
+      <src_lot_type>PS</src_lot_type>
+      <src_lot_number>CUJ430150</src_lot_number>
+      <src_lot_category>NORMAL</src_lot_category>
+      <src_lot_qty>8154</src_lot_qty>
+      <src_device>74LCX245MTCX</src_device>
+      <src_location>TEST</src_location>
+    </source_lot>
+    <assembly_step>
+      <step_name />
+      <step_out_qty />
+    </assembly_step>
+    <test_insertion>
+      <insertion_name />
+      <insertion_qty_out />
+    </test_insertion>
+    <target_lot>
+      <tgt_lot_type />
+      <tgt_lot_number />
+      <tgt_lot_category />
+      <tgt_lot_qty />
+      <tgt_device />
+      <tgt_location />
+    </target_lot>
+    <comp_lot>
+      <comp_lot_type />
+      <comp_lot_number />
+      <comp_lot_category />
+      <comp_lot_qty />
+      <comp_device />
+      <comp_location />
+    </comp_lot>
+    <date_code>
+      <date_code1 />
+      <date_code2 />
+    </date_code>
+    <reject>
+      <reject_code>SC</reject_code>
+      <reject_location>TEST</reject_location>
+      <reject_qty>126</reject_qty>
+      <reject_comment>Test Reject</reject_comment>
+    </reject>
+    <bonus>
+      <bonus_code />
+      <bonus_location />
+      <bonus_qty />
+      <bonus_comment />
+    </bonus>
+    <commit_date>
+      <commit_month />
+      <commit_day />
+      <commit_year />
+      <commit_time />
+    </commit_date>
+    <hold_lot>
+      <held_reason />
+      <held_location />
+      <held_comment />
+    </hold_lot>
+  </transaction>
+  <transaction>
+    <transaction_code>LOTSPLIT</transaction_code>
+    <transaction_date>
+      <tran_month>11</tran_month>
+      <tran_day>27</tran_day>
+      <tran_year>2019</tran_year>
+      <tran_time>10:23:25</tran_time>
+    </transaction_date>
+    <invoice>
+      <invoice_number />
+      <target_location />
+    </invoice>
+    <customer_lot>
+      <cust_lot_type>PS</cust_lot_type>
+      <cust_lot_num>CUJ440189</cust_lot_num>
+    </customer_lot>
+    <source_lot>
+      <src_lot_type>PS</src_lot_type>
+      <src_lot_number>CUJ440189</src_lot_number>
+      <src_lot_category>NORMAL</src_lot_category>
+      <src_lot_qty>10617</src_lot_qty>
+      <src_device>74LCX244MTCX</src_device>
+      <src_location>TEST</src_location>
+    </source_lot>
+    <assembly_step>
+      <step_name />
+      <step_out_qty />
+    </assembly_step>
+    <test_insertion>
+      <insertion_name />
+      <insertion_qty_out />
+    </test_insertion>
+    <target_lot>
+      <tgt_lot_type>PS</tgt_lot_type>
+      <tgt_lot_number>CUJ440189A</tgt_lot_number>
+      <tgt_lot_category>PARTIAL</tgt_lot_category>
+      <tgt_lot_qty>2263</tgt_lot_qty>
+      <tgt_device>74LCX244MTCX</tgt_device>
+      <tgt_location>TEST</tgt_location>
+    </target_lot>
+    <comp_lot>
+      <comp_lot_type />
+      <comp_lot_number />
+      <comp_lot_category />
+      <comp_lot_qty />
+      <comp_device />
+      <comp_location />
+    </comp_lot>
+    <date_code>
+      <date_code1 />
+      <date_code2 />
+    </date_code>
+    <reject>
+      <reject_code />
+      <reject_location />
+      <reject_qty />
+      <reject_comment />
+    </reject>
+    <bonus>
+      <bonus_code />
+      <bonus_location />
+      <bonus_qty />
+      <bonus_comment />
+    </bonus>
+    <commit_date>
+      <commit_month />
+      <commit_day />
+      <commit_year />
+      <commit_time />
+    </commit_date>
+    <hold_lot>
+      <held_reason />
+      <held_location />
+      <held_comment />
+    </hold_lot>
+  </transaction>
+  <transaction>
+    <transaction_code>LOTMERGE</transaction_code>
+    <transaction_date>
+      <tran_month>11</tran_month>
+      <tran_day>27</tran_day>
+      <tran_year>2019</tran_year>
+      <tran_time>10:24:26</tran_time>
+    </transaction_date>
+    <invoice>
+      <invoice_number />
+      <target_location />
+    </invoice>
+    <customer_lot>
+      <cust_lot_type>PS</cust_lot_type>
+      <cust_lot_num>CUJ450234A</cust_lot_num>
+    </customer_lot>
+    <source_lot>
+      <src_lot_type>PS</src_lot_type>
+      <src_lot_number>CUJ450234A</src_lot_number>
+      <src_lot_category>PARTIAL</src_lot_category>
+      <src_lot_qty>1646</src_lot_qty>
+      <src_device>74LCX244MTCX</src_device>
+      <src_location>TEST</src_location>
+    </source_lot>
+    <assembly_step>
+      <step_name />
+      <step_out_qty />
+    </assembly_step>
+    <test_insertion>
+      <insertion_name />
+      <insertion_qty_out />
+    </test_insertion>
+    <target_lot>
+      <tgt_lot_type>PS</tgt_lot_type>
+      <tgt_lot_number>CUJ440189</tgt_lot_number>
+      <tgt_lot_category>NORMAL</tgt_lot_category>
+      <tgt_lot_qty>8354</tgt_lot_qty>
+      <tgt_device>74LCX244MTCX</tgt_device>
+      <tgt_location>TEST</tgt_location>
+    </target_lot>
+    <comp_lot>
+      <comp_lot_type />
+      <comp_lot_number />
+      <comp_lot_category />
+      <comp_lot_qty />
+      <comp_device />
+      <comp_location />
+    </comp_lot>
+    <date_code>
+      <date_code1 />
+      <date_code2 />
+    </date_code>
+    <reject>
+      <reject_code />
+      <reject_location />
+      <reject_qty />
+      <reject_comment />
+    </reject>
+    <bonus>
+      <bonus_code />
+      <bonus_location />
+      <bonus_qty />
+      <bonus_comment />
+    </bonus>
+    <commit_date>
+      <commit_month />
+      <commit_day />
+      <commit_year />
+      <commit_time />
+    </commit_date>
+    <hold_lot>
+      <held_reason />
+      <held_location />
+      <held_comment />
+    </hold_lot>
+  </transaction>
+  <transaction>
+    <transaction_code>LOTSPLIT</transaction_code>
+    <transaction_date>
+      <tran_month>11</tran_month>
+      <tran_day>27</tran_day>
+      <tran_year>2019</tran_year>
+      <tran_time>10:52:10</tran_time>
+    </transaction_date>
+    <invoice>
+      <invoice_number />
+      <target_location />
+    </invoice>
+    <customer_lot>
+      <cust_lot_type>PS</cust_lot_type>
+      <cust_lot_num>CUJ430150</cust_lot_num>
+    </customer_lot>
+    <source_lot>
+      <src_lot_type>PS</src_lot_type>
+      <src_lot_number>CUJ430150</src_lot_number>
+      <src_lot_category>NORMAL</src_lot_category>
+      <src_lot_qty>8028</src_lot_qty>
+      <src_device>74LCX245MTCX</src_device>
+      <src_location>TEST</src_location>
+    </source_lot>
+    <assembly_step>
+      <step_name />
+      <step_out_qty />
+    </assembly_step>
+    <test_insertion>
+      <insertion_name />
+      <insertion_qty_out />
+    </test_insertion>
+    <target_lot>
+      <tgt_lot_type>PS</tgt_lot_type>
+      <tgt_lot_number>CUJ430150A</tgt_lot_number>
+      <tgt_lot_category>PARTIAL</tgt_lot_category>
+      <tgt_lot_qty>636</tgt_lot_qty>
+      <tgt_device>74LCX245MTCX</tgt_device>
+      <tgt_location>TEST</tgt_location>
+    </target_lot>
+    <comp_lot>
+      <comp_lot_type />
+      <comp_lot_number />
+      <comp_lot_category />
+      <comp_lot_qty />
+      <comp_device />
+      <comp_location />
+    </comp_lot>
+    <date_code>
+      <date_code1 />
+      <date_code2 />
+    </date_code>
+    <reject>
+      <reject_code />
+      <reject_location />
+      <reject_qty />
+      <reject_comment />
+    </reject>
+    <bonus>
+      <bonus_code />
+      <bonus_location />
+      <bonus_qty />
+      <bonus_comment />
+    </bonus>
+    <commit_date>
+      <commit_month />
+      <commit_day />
+      <commit_year />
+      <commit_time />
+    </commit_date>
+    <hold_lot>
+      <held_reason />
+      <held_location />
+      <held_comment />
+    </hold_lot>
+  </transaction>
+  <transaction>
+    <transaction_code>LOTMERGE</transaction_code>
+    <transaction_date>
+      <tran_month>11</tran_month>
+      <tran_day>27</tran_day>
+      <tran_year>2019</tran_year>
+      <tran_time>10:53:10</tran_time>
+    </transaction_date>
+    <invoice>
+      <invoice_number />
+      <target_location />
+    </invoice>
+    <customer_lot>
+      <cust_lot_type>PS</cust_lot_type>
+      <cust_lot_num>CUJ420194A</cust_lot_num>
+    </customer_lot>
+    <source_lot>
+      <src_lot_type>PS</src_lot_type>
+      <src_lot_number>CUJ420194A</src_lot_number>
+      <src_lot_category>PARTIAL</src_lot_category>
+      <src_lot_qty>108</src_lot_qty>
+      <src_device>74LCX245MTCX</src_device>
+      <src_location>TEST</src_location>
+    </source_lot>
+    <assembly_step>
+      <step_name />
+      <step_out_qty />
+    </assembly_step>
+    <test_insertion>
+      <insertion_name />
+      <insertion_qty_out />
+    </test_insertion>
+    <target_lot>
+      <tgt_lot_type>PS</tgt_lot_type>
+      <tgt_lot_number>CUJ430150</tgt_lot_number>
+      <tgt_lot_category>NORMAL</tgt_lot_category>
+      <tgt_lot_qty>7392</tgt_lot_qty>
+      <tgt_device>74LCX245MTCX</tgt_device>
+      <tgt_location>TEST</tgt_location>
+    </target_lot>
+    <comp_lot>
+      <comp_lot_type />
+      <comp_lot_number />
+      <comp_lot_category />
+      <comp_lot_qty />
+      <comp_device />
+      <comp_location />
+    </comp_lot>
+    <date_code>
+      <date_code1 />
+      <date_code2 />
+    </date_code>
+    <reject>
+      <reject_code />
+      <reject_location />
+      <reject_qty />
+      <reject_comment />
+    </reject>
+    <bonus>
+      <bonus_code />
+      <bonus_location />
+      <bonus_qty />
+      <bonus_comment />
+    </bonus>
+    <commit_date>
+      <commit_month />
+      <commit_day />
+      <commit_year />
+      <commit_time />
+    </commit_date>
+    <hold_lot>
+      <held_reason />
+      <held_location />
+      <held_comment />
+    </hold_lot>
+  </transaction>
+  <transaction>
+    <transaction_code>LOTREJCT</transaction_code>
+    <transaction_date>
+      <tran_month>11</tran_month>
+      <tran_day>27</tran_day>
+      <tran_year>2019</tran_year>
+      <tran_time>13:12:27</tran_time>
+    </transaction_date>
+    <invoice>
+      <invoice_number />
+      <target_location />
+    </invoice>
+    <customer_lot>
+      <cust_lot_type>PS</cust_lot_type>
+      <cust_lot_num>CUJ030238A</cust_lot_num>
+    </customer_lot>
+    <source_lot>
+      <src_lot_type>PS</src_lot_type>
+      <src_lot_number>CUJ030238A</src_lot_number>
+      <src_lot_category>PARTIAL</src_lot_category>
+      <src_lot_qty>172</src_lot_qty>
+      <src_device>FSAV430MTCX</src_device>
+      <src_location>TEST</src_location>
+    </source_lot>
+    <assembly_step>
+      <step_name />
+      <step_out_qty />
+    </assembly_step>
+    <test_insertion>
+      <insertion_name />
+      <insertion_qty_out />
+    </test_insertion>
+    <target_lot>
+      <tgt_lot_type />
+      <tgt_lot_number />
+      <tgt_lot_category />
+      <tgt_lot_qty />
+      <tgt_device />
+      <tgt_location />
+    </target_lot>
+    <comp_lot>
+      <comp_lot_type />
+      <comp_lot_number />
+      <comp_lot_category />
+      <comp_lot_qty />
+      <comp_device />
+      <comp_location />
+    </comp_lot>
+    <date_code>
+      <date_code1 />
+      <date_code2 />
+    </date_code>
+    <reject>
+      <reject_code>SC</reject_code>
+      <reject_location>TEST</reject_location>
+      <reject_qty>56</reject_qty>
+      <reject_comment>Test Reject</reject_comment>
+    </reject>
+    <bonus>
+      <bonus_code />
+      <bonus_location />
+      <bonus_qty />
+      <bonus_comment />
+    </bonus>
+    <commit_date>
+      <commit_month />
+      <commit_day />
+      <commit_year />
+      <commit_time />
+    </commit_date>
+    <hold_lot>
+      <held_reason />
+      <held_location />
+      <held_comment />
+    </hold_lot>
+  </transaction>
+  <transaction>
+    <transaction_code>LOTREJCT</transaction_code>
+    <transaction_date>
+      <tran_month>11</tran_month>
+      <tran_day>27</tran_day>
+      <tran_year>2019</tran_year>
+      <tran_time>13:14:57</tran_time>
+    </transaction_date>
+    <invoice>
+      <invoice_number />
+      <target_location />
+    </invoice>
+    <customer_lot>
+      <cust_lot_type>PS</cust_lot_type>
+      <cust_lot_num>CUH470337A</cust_lot_num>
+    </customer_lot>
+    <source_lot>
+      <src_lot_type>PS</src_lot_type>
+      <src_lot_number>CUH470337A</src_lot_number>
+      <src_lot_category>PARTIAL</src_lot_category>
+      <src_lot_qty>1057</src_lot_qty>
+      <src_device>FSA2367MTCX</src_device>
+      <src_location>TEST</src_location>
+    </source_lot>
+    <assembly_step>
+      <step_name />
+      <step_out_qty />
+    </assembly_step>
+    <test_insertion>
+      <insertion_name />
+      <insertion_qty_out />
+    </test_insertion>
+    <target_lot>
+      <tgt_lot_type />
+      <tgt_lot_number />
+      <tgt_lot_category />
+      <tgt_lot_qty />
+      <tgt_device />
+      <tgt_location />
+    </target_lot>
+    <comp_lot>
+      <comp_lot_type />
+      <comp_lot_number />
+      <comp_lot_category />
+      <comp_lot_qty />
+      <comp_device />
+      <comp_location />
+    </comp_lot>
+    <date_code>
+      <date_code1 />
+      <date_code2 />
+    </date_code>
+    <reject>
+      <reject_code>SC</reject_code>
+      <reject_location>TEST</reject_location>
+      <reject_qty>27</reject_qty>
+      <reject_comment>Test Reject</reject_comment>
+    </reject>
+    <bonus>
+      <bonus_code />
+      <bonus_location />
+      <bonus_qty />
+      <bonus_comment />
+    </bonus>
+    <commit_date>
+      <commit_month />
+      <commit_day />
+      <commit_year />
+      <commit_time />
+    </commit_date>
+    <hold_lot>
+      <held_reason />
+      <held_location />
+      <held_comment />
+    </hold_lot>
+  </transaction>
+  <transaction>
+    <transaction_code>LOTREJCT</transaction_code>
+    <transaction_date>
+      <tran_month>11</tran_month>
+      <tran_day>27</tran_day>
+      <tran_year>2019</tran_year>
+      <tran_time>13:18:01</tran_time>
+    </transaction_date>
+    <invoice>
+      <invoice_number />
+      <target_location />
+    </invoice>
+    <customer_lot>
+      <cust_lot_type>PS</cust_lot_type>
+      <cust_lot_num>CUH430338A</cust_lot_num>
+    </customer_lot>
+    <source_lot>
+      <src_lot_type>PS</src_lot_type>
+      <src_lot_number>CUH430338A</src_lot_number>
+      <src_lot_category>PARTIAL</src_lot_category>
+      <src_lot_qty>491</src_lot_qty>
+      <src_device>74LCX540MTCX</src_device>
+      <src_location>TEST</src_location>
+    </source_lot>
+    <assembly_step>
+      <step_name />
+      <step_out_qty />
+    </assembly_step>
+    <test_insertion>
+      <insertion_name />
+      <insertion_qty_out />
+    </test_insertion>
+    <target_lot>
+      <tgt_lot_type />
+      <tgt_lot_number />
+      <tgt_lot_category />
+      <tgt_lot_qty />
+      <tgt_device />
+      <tgt_location />
+    </target_lot>
+    <comp_lot>
+      <comp_lot_type />
+      <comp_lot_number />
+      <comp_lot_category />
+      <comp_lot_qty />
+      <comp_device />
+      <comp_location />
+    </comp_lot>
+    <date_code>
+      <date_code1 />
+      <date_code2 />
+    </date_code>
+    <reject>
+      <reject_code>SC</reject_code>
+      <reject_location>TEST</reject_location>
+      <reject_qty>23</reject_qty>
+      <reject_comment>Test Reject</reject_comment>
+    </reject>
+    <bonus>
+      <bonus_code />
+      <bonus_location />
+      <bonus_qty />
+      <bonus_comment />
+    </bonus>
+    <commit_date>
+      <commit_month />
+      <commit_day />
+      <commit_year />
+      <commit_time />
+    </commit_date>
+    <hold_lot>
+      <held_reason />
+      <held_location />
+      <held_comment />
+    </hold_lot>
+  </transaction>
+  <transaction>
+    <transaction_code>LOTREJCT</transaction_code>
+    <transaction_date>
+      <tran_month>11</tran_month>
+      <tran_day>27</tran_day>
+      <tran_year>2019</tran_year>
+      <tran_time>14:02:44</tran_time>
+    </transaction_date>
+    <invoice>
+      <invoice_number />
+      <target_location />
+    </invoice>
+    <customer_lot>
+      <cust_lot_type>PN</cust_lot_type>
+      <cust_lot_num>CUJ460216</cust_lot_num>
+    </customer_lot>
+    <source_lot>
+      <src_lot_type>PN</src_lot_type>
+      <src_lot_number>CUJ460216</src_lot_number>
+      <src_lot_category>NORMAL</src_lot_category>
+      <src_lot_qty>12320</src_lot_qty>
+      <src_device>FAN7621BSJX-ASY</src_device>
+      <src_location>ASSY</src_location>
+    </source_lot>
+    <assembly_step>
+      <step_name />
+      <step_out_qty />
+    </assembly_step>
+    <test_insertion>
+      <insertion_name />
+      <insertion_qty_out />
+    </test_insertion>
+    <target_lot>
+      <tgt_lot_type />
+      <tgt_lot_number />
+      <tgt_lot_category />
+      <tgt_lot_qty />
+      <tgt_device />
+      <tgt_location />
+    </target_lot>
+    <comp_lot>
+      <comp_lot_type />
+      <comp_lot_number />
+      <comp_lot_category />
+      <comp_lot_qty />
+      <comp_device />
+      <comp_location />
+    </comp_lot>
+    <date_code>
+      <date_code1 />
+      <date_code2 />
+    </date_code>
+    <reject>
+      <reject_code>SC</reject_code>
+      <reject_location>ASSY</reject_location>
+      <reject_qty>234</reject_qty>
+      <reject_comment>Assembly Reject</reject_comment>
+    </reject>
+    <bonus>
+      <bonus_code />
+      <bonus_location />
+      <bonus_qty />
+      <bonus_comment />
+    </bonus>
+    <commit_date>
+      <commit_month />
+      <commit_day />
+      <commit_year />
+      <commit_time />
+    </commit_date>
+    <hold_lot>
+      <held_reason />
+      <held_location />
+      <held_comment />
+    </hold_lot>
+  </transaction>
+  <transaction>
+    <transaction_code>LOTREJCT</transaction_code>
+    <transaction_date>
+      <tran_month>11</tran_month>
+      <tran_day>27</tran_day>
+      <tran_year>2019</tran_year>
+      <tran_time>14:06:07</tran_time>
+    </transaction_date>
+    <invoice>
+      <invoice_number />
+      <target_location />
+    </invoice>
+    <customer_lot>
+      <cust_lot_type>PN</cust_lot_type>
+      <cust_lot_num>CUJ470230</cust_lot_num>
+    </customer_lot>
+    <source_lot>
+      <src_lot_type>PN</src_lot_type>
+      <src_lot_number>CUJ470230</src_lot_number>
+      <src_lot_category>NORMAL</src_lot_category>
+      <src_lot_qty>12320</src_lot_qty>
+      <src_device>FAN7621SSJX-ASY</src_device>
+      <src_location>ASSY</src_location>
+    </source_lot>
+    <assembly_step>
+      <step_name />
+      <step_out_qty />
+    </assembly_step>
+    <test_insertion>
+      <insertion_name />
+      <insertion_qty_out />
+    </test_insertion>
+    <target_lot>
+      <tgt_lot_type />
+      <tgt_lot_number />
+      <tgt_lot_category />
+      <tgt_lot_qty />
+      <tgt_device />
+      <tgt_location />
+    </target_lot>
+    <comp_lot>
+      <comp_lot_type />
+      <comp_lot_number />
+      <comp_lot_category />
+      <comp_lot_qty />
+      <comp_device />
+      <comp_location />
+    </comp_lot>
+    <date_code>
+      <date_code1 />
+      <date_code2 />
+    </date_code>
+    <reject>
+      <reject_code>SC</reject_code>
+      <reject_location>ASSY</reject_location>
+      <reject_qty>146</reject_qty>
+      <reject_comment>Assembly Reject</reject_comment>
+    </reject>
+    <bonus>
+      <bonus_code />
+      <bonus_location />
+      <bonus_qty />
+      <bonus_comment />
+    </bonus>
+    <commit_date>
+      <commit_month />
+      <commit_day />
+      <commit_year />
+      <commit_time />
+    </commit_date>
+    <hold_lot>
+      <held_reason />
+      <held_location />
+      <held_comment />
+    </hold_lot>
+  </transaction>
+  <transaction>
+    <transaction_code>LOTMOVE</transaction_code>
+    <transaction_date>
+      <tran_month>11</tran_month>
+      <tran_day>27</tran_day>
+      <tran_year>2019</tran_year>
+      <tran_time>14:06:55</tran_time>
+    </transaction_date>
+    <invoice>
+      <invoice_number />
+      <target_location />
+    </invoice>
+    <customer_lot>
+      <cust_lot_type>PS</cust_lot_type>
+      <cust_lot_num>CUJ370100</cust_lot_num>
+    </customer_lot>
+    <source_lot>
+      <src_lot_type>PS</src_lot_type>
+      <src_lot_number>CUJ370100</src_lot_number>
+      <src_lot_category>NORMAL</src_lot_category>
+      <src_lot_qty>5000</src_lot_qty>
+      <src_device>FIN1216MTDX</src_device>
+      <src_location>TEST</src_location>
+    </source_lot>
+    <assembly_step>
+      <step_name />
+      <step_out_qty />
+    </assembly_step>
+    <test_insertion>
+      <insertion_name />
+      <insertion_qty_out />
+    </test_insertion>
+    <target_lot>
+      <tgt_lot_type>PS</tgt_lot_type>
+      <tgt_lot_number>CUJ370100</tgt_lot_number>
+      <tgt_lot_category>NORMAL</tgt_lot_category>
+      <tgt_lot_qty>5000</tgt_lot_qty>
+      <tgt_device>FIN1216MTDX</tgt_device>
+      <tgt_location>FGSH</tgt_location>
+    </target_lot>
+    <comp_lot>
+      <comp_lot_type />
+      <comp_lot_number />
+      <comp_lot_category />
+      <comp_lot_qty />
+      <comp_device />
+      <comp_location />
+    </comp_lot>
+    <date_code>
+      <date_code1 />
+      <date_code2 />
+    </date_code>
+    <reject>
+      <reject_code />
+      <reject_location />
+      <reject_qty />
+      <reject_comment />
+    </reject>
+    <bonus>
+      <bonus_code />
+      <bonus_location />
+      <bonus_qty />
+      <bonus_comment />
+    </bonus>
+    <commit_date>
+      <commit_month />
+      <commit_day />
+      <commit_year />
+      <commit_time />
+    </commit_date>
+    <hold_lot>
+      <held_reason />
+      <held_location />
+      <held_comment />
+    </hold_lot>
+  </transaction>
+  <transaction>
+    <transaction_code>LOTMOVE</transaction_code>
+    <transaction_date>
+      <tran_month>11</tran_month>
+      <tran_day>27</tran_day>
+      <tran_year>2019</tran_year>
+      <tran_time>14:06:55</tran_time>
+    </transaction_date>
+    <invoice>
+      <invoice_number />
+      <target_location />
+    </invoice>
+    <customer_lot>
+      <cust_lot_type>PS</cust_lot_type>
+      <cust_lot_num>CUJ450077</cust_lot_num>
+    </customer_lot>
+    <source_lot>
+      <src_lot_type>PS</src_lot_type>
+      <src_lot_number>CUJ450077</src_lot_number>
+      <src_lot_category>NORMAL</src_lot_category>
+      <src_lot_qty>10000</src_lot_qty>
+      <src_device>FIN1031MTCX</src_device>
+      <src_location>TEST</src_location>
+    </source_lot>
+    <assembly_step>
+      <step_name />
+      <step_out_qty />
+    </assembly_step>
+    <test_insertion>
+      <insertion_name />
+      <insertion_qty_out />
+    </test_insertion>
+    <target_lot>
+      <tgt_lot_type>PS</tgt_lot_type>
+      <tgt_lot_number>CUJ450077</tgt_lot_number>
+      <tgt_lot_category>NORMAL</tgt_lot_category>
+      <tgt_lot_qty>10000</tgt_lot_qty>
+      <tgt_device>FIN1031MTCX</tgt_device>
+      <tgt_location>FGSH</tgt_location>
+    </target_lot>
+    <comp_lot>
+      <comp_lot_type />
+      <comp_lot_number />
+      <comp_lot_category />
+      <comp_lot_qty />
+      <comp_device />
+      <comp_location />
+    </comp_lot>
+    <date_code>
+      <date_code1 />
+      <date_code2 />
+    </date_code>
+    <reject>
+      <reject_code />
+      <reject_location />
+      <reject_qty />
+      <reject_comment />
+    </reject>
+    <bonus>
+      <bonus_code />
+      <bonus_location />
+      <bonus_qty />
+      <bonus_comment />
+    </bonus>
+    <commit_date>
+      <commit_month />
+      <commit_day />
+      <commit_year />
+      <commit_time />
+    </commit_date>
+    <hold_lot>
+      <held_reason />
+      <held_location />
+      <held_comment />
+    </hold_lot>
+  </transaction>
+  <transaction>
+    <transaction_code>LOTMOVE</transaction_code>
+    <transaction_date>
+      <tran_month>11</tran_month>
+      <tran_day>27</tran_day>
+      <tran_year>2019</tran_year>
+      <tran_time>14:06:55</tran_time>
+    </transaction_date>
+    <invoice>
+      <invoice_number />
+      <target_location />
+    </invoice>
+    <customer_lot>
+      <cust_lot_type>PS</cust_lot_type>
+      <cust_lot_num>CUJ460175</cust_lot_num>
+    </customer_lot>
+    <source_lot>
+      <src_lot_type>PS</src_lot_type>
+      <src_lot_number>CUJ460175</src_lot_number>
+      <src_lot_category>NORMAL</src_lot_category>
+      <src_lot_qty>10000</src_lot_qty>
+      <src_device>FST3257MTCX</src_device>
+      <src_location>TEST</src_location>
+    </source_lot>
+    <assembly_step>
+      <step_name />
+      <step_out_qty />
+    </assembly_step>
+    <test_insertion>
+      <insertion_name />
+      <insertion_qty_out />
+    </test_insertion>
+    <target_lot>
+      <tgt_lot_type>PS</tgt_lot_type>
+      <tgt_lot_number>CUJ460175</tgt_lot_number>
+      <tgt_lot_category>NORMAL</tgt_lot_category>
+      <tgt_lot_qty>10000</tgt_lot_qty>
+      <tgt_device>FST3257MTCX</tgt_device>
+      <tgt_location>FGSH</tgt_location>
+    </target_lot>
+    <comp_lot>
+      <comp_lot_type />
+      <comp_lot_number />
+      <comp_lot_category />
+      <comp_lot_qty />
+      <comp_device />
+      <comp_location />
+    </comp_lot>
+    <date_code>
+      <date_code1 />
+      <date_code2 />
+    </date_code>
+    <reject>
+      <reject_code />
+      <reject_location />
+      <reject_qty />
+      <reject_comment />
+    </reject>
+    <bonus>
+      <bonus_code />
+      <bonus_location />
+      <bonus_qty />
+      <bonus_comment />
+    </bonus>
+    <commit_date>
+      <commit_month />
+      <commit_day />
+      <commit_year />
+      <commit_time />
+    </commit_date>
+    <hold_lot>
+      <held_reason />
+      <held_location />
+      <held_comment />
+    </hold_lot>
+  </transaction>
+  <transaction>
+    <transaction_code>LOTMOVE</transaction_code>
+    <transaction_date>
+      <tran_month>11</tran_month>
+      <tran_day>27</tran_day>
+      <tran_year>2019</tran_year>
+      <tran_time>14:06:55</tran_time>
+    </transaction_date>
+    <invoice>
+      <invoice_number />
+      <target_location />
+    </invoice>
+    <customer_lot>
+      <cust_lot_type>PS</cust_lot_type>
+      <cust_lot_num>CUJ460080</cust_lot_num>
+    </customer_lot>
+    <source_lot>
+      <src_lot_type>PS</src_lot_type>
+      <src_lot_number>CUJ460080</src_lot_number>
+      <src_lot_category>NORMAL</src_lot_category>
+      <src_lot_qty>15000</src_lot_qty>
+      <src_device>74VHC32MTCX</src_device>
+      <src_location>TEST</src_location>
+    </source_lot>
+    <assembly_step>
+      <step_name />
+      <step_out_qty />
+    </assembly_step>
+    <test_insertion>
+      <insertion_name />
+      <insertion_qty_out />
+    </test_insertion>
+    <target_lot>
+      <tgt_lot_type>PS</tgt_lot_type>
+      <tgt_lot_number>CUJ460080</tgt_lot_number>
+      <tgt_lot_category>NORMAL</tgt_lot_category>
+      <tgt_lot_qty>15000</tgt_lot_qty>
+      <tgt_device>74VHC32MTCX</tgt_device>
+      <tgt_location>FGSH</tgt_location>
+    </target_lot>
+    <comp_lot>
+      <comp_lot_type />
+      <comp_lot_number />
+      <comp_lot_category />
+      <comp_lot_qty />
+      <comp_device />
+      <comp_location />
+    </comp_lot>
+    <date_code>
+      <date_code1 />
+      <date_code2 />
+    </date_code>
+    <reject>
+      <reject_code />
+      <reject_location />
+      <reject_qty />
+      <reject_comment />
+    </reject>
+    <bonus>
+      <bonus_code />
+      <bonus_location />
+      <bonus_qty />
+      <bonus_comment />
+    </bonus>
+    <commit_date>
+      <commit_month />
+      <commit_day />
+      <commit_year />
+      <commit_time />
+    </commit_date>
+    <hold_lot>
+      <held_reason />
+      <held_location />
+      <held_comment />
+    </hold_lot>
+  </transaction>
+  <transaction>
+    <transaction_code>LOTMOVE</transaction_code>
+    <transaction_date>
+      <tran_month>11</tran_month>
+      <tran_day>27</tran_day>
+      <tran_year>2019</tran_year>
+      <tran_time>14:06:55</tran_time>
+    </transaction_date>
+    <invoice>
+      <invoice_number />
+      <target_location />
+    </invoice>
+    <customer_lot>
+      <cust_lot_type>PS</cust_lot_type>
+      <cust_lot_num>CUJ460113</cust_lot_num>
+    </customer_lot>
+    <source_lot>
+      <src_lot_type>PS</src_lot_type>
+      <src_lot_number>CUJ460113</src_lot_number>
+      <src_lot_category>NORMAL</src_lot_category>
+      <src_lot_qty>15000</src_lot_qty>
+      <src_device>MM74HC14MTCX</src_device>
+      <src_location>TEST</src_location>
+    </source_lot>
+    <assembly_step>
+      <step_name />
+      <step_out_qty />
+    </assembly_step>
+    <test_insertion>
+      <insertion_name />
+      <insertion_qty_out />
+    </test_insertion>
+    <target_lot>
+      <tgt_lot_type>PS</tgt_lot_type>
+      <tgt_lot_number>CUJ460113</tgt_lot_number>
+      <tgt_lot_category>NORMAL</tgt_lot_category>
+      <tgt_lot_qty>15000</tgt_lot_qty>
+      <tgt_device>MM74HC14MTCX</tgt_device>
+      <tgt_location>FGSH</tgt_location>
+    </target_lot>
+    <comp_lot>
+      <comp_lot_type />
+      <comp_lot_number />
+      <comp_lot_category />
+      <comp_lot_qty />
+      <comp_device />
+      <comp_location />
+    </comp_lot>
+    <date_code>
+      <date_code1 />
+      <date_code2 />
+    </date_code>
+    <reject>
+      <reject_code />
+      <reject_location />
+      <reject_qty />
+      <reject_comment />
+    </reject>
+    <bonus>
+      <bonus_code />
+      <bonus_location />
+      <bonus_qty />
+      <bonus_comment />
+    </bonus>
+    <commit_date>
+      <commit_month />
+      <commit_day />
+      <commit_year />
+      <commit_time />
+    </commit_date>
+    <hold_lot>
+      <held_reason />
+      <held_location />
+      <held_comment />
+    </hold_lot>
+  </transaction>
+  <transaction>
+    <transaction_code>LOTMOVE</transaction_code>
+    <transaction_date>
+      <tran_month>11</tran_month>
+      <tran_day>27</tran_day>
+      <tran_year>2019</tran_year>
+      <tran_time>14:06:55</tran_time>
+    </transaction_date>
+    <invoice>
+      <invoice_number />
+      <target_location />
+    </invoice>
+    <customer_lot>
+      <cust_lot_type>PS</cust_lot_type>
+      <cust_lot_num>CUJ460081</cust_lot_num>
+    </customer_lot>
+    <source_lot>
+      <src_lot_type>PS</src_lot_type>
+      <src_lot_number>CUJ460081</src_lot_number>
+      <src_lot_category>NORMAL</src_lot_category>
+      <src_lot_qty>15000</src_lot_qty>
+      <src_device>74VHC32MTCX</src_device>
+      <src_location>TEST</src_location>
+    </source_lot>
+    <assembly_step>
+      <step_name />
+      <step_out_qty />
+    </assembly_step>
+    <test_insertion>
+      <insertion_name />
+      <insertion_qty_out />
+    </test_insertion>
+    <target_lot>
+      <tgt_lot_type>PS</tgt_lot_type>
+      <tgt_lot_number>CUJ460081</tgt_lot_number>
+      <tgt_lot_category>NORMAL</tgt_lot_category>
+      <tgt_lot_qty>15000</tgt_lot_qty>
+      <tgt_device>74VHC32MTCX</tgt_device>
+      <tgt_location>FGSH</tgt_location>
+    </target_lot>
+    <comp_lot>
+      <comp_lot_type />
+      <comp_lot_number />
+      <comp_lot_category />
+      <comp_lot_qty />
+      <comp_device />
+      <comp_location />
+    </comp_lot>
+    <date_code>
+      <date_code1 />
+      <date_code2 />
+    </date_code>
+    <reject>
+      <reject_code />
+      <reject_location />
+      <reject_qty />
+      <reject_comment />
+    </reject>
+    <bonus>
+      <bonus_code />
+      <bonus_location />
+      <bonus_qty />
+      <bonus_comment />
+    </bonus>
+    <commit_date>
+      <commit_month />
+      <commit_day />
+      <commit_year />
+      <commit_time />
+    </commit_date>
+    <hold_lot>
+      <held_reason />
+      <held_location />
+      <held_comment />
+    </hold_lot>
+  </transaction>
+  <transaction>
+    <transaction_code>LOTMOVE</transaction_code>
+    <transaction_date>
+      <tran_month>11</tran_month>
+      <tran_day>27</tran_day>
+      <tran_year>2019</tran_year>
+      <tran_time>14:06:55</tran_time>
+    </transaction_date>
+    <invoice>
+      <invoice_number />
+      <target_location />
+    </invoice>
+    <customer_lot>
+      <cust_lot_type>PS</cust_lot_type>
+      <cust_lot_num>CUJ460153</cust_lot_num>
+    </customer_lot>
+    <source_lot>
+      <src_lot_type>PS</src_lot_type>
+      <src_lot_number>CUJ460153</src_lot_number>
+      <src_lot_category>NORMAL</src_lot_category>
+      <src_lot_qty>15000</src_lot_qty>
+      <src_device>74LCX14MTCX</src_device>
+      <src_location>TEST</src_location>
+    </source_lot>
+    <assembly_step>
+      <step_name />
+      <step_out_qty />
+    </assembly_step>
+    <test_insertion>
+      <insertion_name />
+      <insertion_qty_out />
+    </test_insertion>
+    <target_lot>
+      <tgt_lot_type>PS</tgt_lot_type>
+      <tgt_lot_number>CUJ460153</tgt_lot_number>
+      <tgt_lot_category>NORMAL</tgt_lot_category>
+      <tgt_lot_qty>15000</tgt_lot_qty>
+      <tgt_device>74LCX14MTCX</tgt_device>
+      <tgt_location>FGSH</tgt_location>
+    </target_lot>
+    <comp_lot>
+      <comp_lot_type />
+      <comp_lot_number />
+      <comp_lot_category />
+      <comp_lot_qty />
+      <comp_device />
+      <comp_location />
+    </comp_lot>
+    <date_code>
+      <date_code1 />
+      <date_code2 />
+    </date_code>
+    <reject>
+      <reject_code />
+      <reject_location />
+      <reject_qty />
+      <reject_comment />
+    </reject>
+    <bonus>
+      <bonus_code />
+      <bonus_location />
+      <bonus_qty />
+      <bonus_comment />
+    </bonus>
+    <commit_date>
+      <commit_month />
+      <commit_day />
+      <commit_year />
+      <commit_time />
+    </commit_date>
+    <hold_lot>
+      <held_reason />
+      <held_location />
+      <held_comment />
+    </hold_lot>
+  </transaction>
+  <transaction>
+    <transaction_code>LOTMOVE</transaction_code>
+    <transaction_date>
+      <tran_month>11</tran_month>
+      <tran_day>27</tran_day>
+      <tran_year>2019</tran_year>
+      <tran_time>14:06:55</tran_time>
+    </transaction_date>
+    <invoice>
+      <invoice_number />
+      <target_location />
+    </invoice>
+    <customer_lot>
+      <cust_lot_type>PS</cust_lot_type>
+      <cust_lot_num>CUJ460129</cust_lot_num>
+    </customer_lot>
+    <source_lot>
+      <src_lot_type>PS</src_lot_type>
+      <src_lot_number>CUJ460129</src_lot_number>
+      <src_lot_category>NORMAL</src_lot_category>
+      <src_lot_qty>15000</src_lot_qty>
+      <src_device>74LCX08MTCX</src_device>
+      <src_location>TEST</src_location>
+    </source_lot>
+    <assembly_step>
+      <step_name />
+      <step_out_qty />
+    </assembly_step>
+    <test_insertion>
+      <insertion_name />
+      <insertion_qty_out />
+    </test_insertion>
+    <target_lot>
+      <tgt_lot_type>PS</tgt_lot_type>
+      <tgt_lot_number>CUJ460129</tgt_lot_number>
+      <tgt_lot_category>NORMAL</tgt_lot_category>
+      <tgt_lot_qty>15000</tgt_lot_qty>
+      <tgt_device>74LCX08MTCX</tgt_device>
+      <tgt_location>FGSH</tgt_location>
+    </target_lot>
+    <comp_lot>
+      <comp_lot_type />
+      <comp_lot_number />
+      <comp_lot_category />
+      <comp_lot_qty />
+      <comp_device />
+      <comp_location />
+    </comp_lot>
+    <date_code>
+      <date_code1 />
+      <date_code2 />
+    </date_code>
+    <reject>
+      <reject_code />
+      <reject_location />
+      <reject_qty />
+      <reject_comment />
+    </reject>
+    <bonus>
+      <bonus_code />
+      <bonus_location />
+      <bonus_qty />
+      <bonus_comment />
+    </bonus>
+    <commit_date>
+      <commit_month />
+      <commit_day />
+      <commit_year />
+      <commit_time />
+    </commit_date>
+    <hold_lot>
+      <held_reason />
+      <held_location />
+      <held_comment />
+    </hold_lot>
+  </transaction>
+  <transaction>
+    <transaction_code>LOTMOVE</transaction_code>
+    <transaction_date>
+      <tran_month>11</tran_month>
+      <tran_day>27</tran_day>
+      <tran_year>2019</tran_year>
+      <tran_time>14:06:55</tran_time>
+    </transaction_date>
+    <invoice>
+      <invoice_number />
+      <target_location />
+    </invoice>
+    <customer_lot>
+      <cust_lot_type>PS</cust_lot_type>
+      <cust_lot_num>CUJ460101</cust_lot_num>
+    </customer_lot>
+    <source_lot>
+      <src_lot_type>PS</src_lot_type>
+      <src_lot_number>CUJ460101</src_lot_number>
+      <src_lot_category>NORMAL</src_lot_category>
+      <src_lot_qty>15000</src_lot_qty>
+      <src_device>74VHC74MTCX-SF500950</src_device>
+      <src_location>TEST</src_location>
+    </source_lot>
+    <assembly_step>
+      <step_name />
+      <step_out_qty />
+    </assembly_step>
+    <test_insertion>
+      <insertion_name />
+      <insertion_qty_out />
+    </test_insertion>
+    <target_lot>
+      <tgt_lot_type>PS</tgt_lot_type>
+      <tgt_lot_number>CUJ460101</tgt_lot_number>
+      <tgt_lot_category>NORMAL</tgt_lot_category>
+      <tgt_lot_qty>15000</tgt_lot_qty>
+      <tgt_device>74VHC74MTCX-SF500950</tgt_device>
+      <tgt_location>FGSH</tgt_location>
+    </target_lot>
+    <comp_lot>
+      <comp_lot_type />
+      <comp_lot_number />
+      <comp_lot_category />
+      <comp_lot_qty />
+      <comp_device />
+      <comp_location />
+    </comp_lot>
+    <date_code>
+      <date_code1 />
+      <date_code2 />
+    </date_code>
+    <reject>
+      <reject_code />
+      <reject_location />
+      <reject_qty />
+      <reject_comment />
+    </reject>
+    <bonus>
+      <bonus_code />
+      <bonus_location />
+      <bonus_qty />
+      <bonus_comment />
+    </bonus>
+    <commit_date>
+      <commit_month />
+      <commit_day />
+      <commit_year />
+      <commit_time />
+    </commit_date>
+    <hold_lot>
+      <held_reason />
+      <held_location />
+      <held_comment />
+    </hold_lot>
+  </transaction>
+  <transaction>
+    <transaction_code>LOTMOVE</transaction_code>
+    <transaction_date>
+      <tran_month>11</tran_month>
+      <tran_day>27</tran_day>
+      <tran_year>2019</tran_year>
+      <tran_time>14:06:55</tran_time>
+    </transaction_date>
+    <invoice>
+      <invoice_number />
+      <target_location />
+    </invoice>
+    <customer_lot>
+      <cust_lot_type>PS</cust_lot_type>
+      <cust_lot_num>CUJ460096</cust_lot_num>
+    </customer_lot>
+    <source_lot>
+      <src_lot_type>PS</src_lot_type>
+      <src_lot_number>CUJ460096</src_lot_number>
+      <src_lot_category>NORMAL</src_lot_category>
+      <src_lot_qty>15000</src_lot_qty>
+      <src_device>74VHC74MTCX-SF500950</src_device>
+      <src_location>TEST</src_location>
+    </source_lot>
+    <assembly_step>
+      <step_name />
+      <step_out_qty />
+    </assembly_step>
+    <test_insertion>
+      <insertion_name />
+      <insertion_qty_out />
+    </test_insertion>
+    <target_lot>
+      <tgt_lot_type>PS</tgt_lot_type>
+      <tgt_lot_number>CUJ460096</tgt_lot_number>
+      <tgt_lot_category>NORMAL</tgt_lot_category>
+      <tgt_lot_qty>15000</tgt_lot_qty>
+      <tgt_device>74VHC74MTCX-SF500950</tgt_device>
+      <tgt_location>FGSH</tgt_location>
+    </target_lot>
+    <comp_lot>
+      <comp_lot_type />
+      <comp_lot_number />
+      <comp_lot_category />
+      <comp_lot_qty />
+      <comp_device />
+      <comp_location />
+    </comp_lot>
+    <date_code>
+      <date_code1 />
+      <date_code2 />
+    </date_code>
+    <reject>
+      <reject_code />
+      <reject_location />
+      <reject_qty />
+      <reject_comment />
+    </reject>
+    <bonus>
+      <bonus_code />
+      <bonus_location />
+      <bonus_qty />
+      <bonus_comment />
+    </bonus>
+    <commit_date>
+      <commit_month />
+      <commit_day />
+      <commit_year />
+      <commit_time />
+    </commit_date>
+    <hold_lot>
+      <held_reason />
+      <held_location />
+      <held_comment />
+    </hold_lot>
+  </transaction>
+  <transaction>
+    <transaction_code>LOTMOVE</transaction_code>
+    <transaction_date>
+      <tran_month>11</tran_month>
+      <tran_day>27</tran_day>
+      <tran_year>2019</tran_year>
+      <tran_time>14:06:55</tran_time>
+    </transaction_date>
+    <invoice>
+      <invoice_number />
+      <target_location />
+    </invoice>
+    <customer_lot>
+      <cust_lot_type>PS</cust_lot_type>
+      <cust_lot_num>CUJ460086</cust_lot_num>
+    </customer_lot>
+    <source_lot>
+      <src_lot_type>PS</src_lot_type>
+      <src_lot_number>CUJ460086</src_lot_number>
+      <src_lot_category>NORMAL</src_lot_category>
+      <src_lot_qty>15000</src_lot_qty>
+      <src_device>74VHC32MTCX</src_device>
+      <src_location>TEST</src_location>
+    </source_lot>
+    <assembly_step>
+      <step_name />
+      <step_out_qty />
+    </assembly_step>
+    <test_insertion>
+      <insertion_name />
+      <insertion_qty_out />
+    </test_insertion>
+    <target_lot>
+      <tgt_lot_type>PS</tgt_lot_type>
+      <tgt_lot_number>CUJ460086</tgt_lot_number>
+      <tgt_lot_category>NORMAL</tgt_lot_category>
+      <tgt_lot_qty>15000</tgt_lot_qty>
+      <tgt_device>74VHC32MTCX</tgt_device>
+      <tgt_location>FGSH</tgt_location>
+    </target_lot>
+    <comp_lot>
+      <comp_lot_type />
+      <comp_lot_number />
+      <comp_lot_category />
+      <comp_lot_qty />
+      <comp_device />
+      <comp_location />
+    </comp_lot>
+    <date_code>
+      <date_code1 />
+      <date_code2 />
+    </date_code>
+    <reject>
+      <reject_code />
+      <reject_location />
+      <reject_qty />
+      <reject_comment />
+    </reject>
+    <bonus>
+      <bonus_code />
+      <bonus_location />
+      <bonus_qty />
+      <bonus_comment />
+    </bonus>
+    <commit_date>
+      <commit_month />
+      <commit_day />
+      <commit_year />
+      <commit_time />
+    </commit_date>
+    <hold_lot>
+      <held_reason />
+      <held_location />
+      <held_comment />
+    </hold_lot>
+  </transaction>
+  <transaction>
+    <transaction_code>LOTMOVE</transaction_code>
+    <transaction_date>
+      <tran_month>11</tran_month>
+      <tran_day>27</tran_day>
+      <tran_year>2019</tran_year>
+      <tran_time>14:06:55</tran_time>
+    </transaction_date>
+    <invoice>
+      <invoice_number />
+      <target_location />
+    </invoice>
+    <customer_lot>
+      <cust_lot_type>PS</cust_lot_type>
+      <cust_lot_num>CUJ460154</cust_lot_num>
+    </customer_lot>
+    <source_lot>
+      <src_lot_type>PS</src_lot_type>
+      <src_lot_number>CUJ460154</src_lot_number>
+      <src_lot_category>NORMAL</src_lot_category>
+      <src_lot_qty>15000</src_lot_qty>
+      <src_device>74LCX14MTCX</src_device>
+      <src_location>TEST</src_location>
+    </source_lot>
+    <assembly_step>
+      <step_name />
+      <step_out_qty />
+    </assembly_step>
+    <test_insertion>
+      <insertion_name />
+      <insertion_qty_out />
+    </test_insertion>
+    <target_lot>
+      <tgt_lot_type>PS</tgt_lot_type>
+      <tgt_lot_number>CUJ460154</tgt_lot_number>
+      <tgt_lot_category>NORMAL</tgt_lot_category>
+      <tgt_lot_qty>15000</tgt_lot_qty>
+      <tgt_device>74LCX14MTCX</tgt_device>
+      <tgt_location>FGSH</tgt_location>
+    </target_lot>
+    <comp_lot>
+      <comp_lot_type />
+      <comp_lot_number />
+      <comp_lot_category />
+      <comp_lot_qty />
+      <comp_device />
+      <comp_location />
+    </comp_lot>
+    <date_code>
+      <date_code1 />
+      <date_code2 />
+    </date_code>
+    <reject>
+      <reject_code />
+      <reject_location />
+      <reject_qty />
+      <reject_comment />
+    </reject>
+    <bonus>
+      <bonus_code />
+      <bonus_location />
+      <bonus_qty />
+      <bonus_comment />
+    </bonus>
+    <commit_date>
+      <commit_month />
+      <commit_day />
+      <commit_year />
+      <commit_time />
+    </commit_date>
+    <hold_lot>
+      <held_reason />
+      <held_location />
+      <held_comment />
+    </hold_lot>
+  </transaction>
+  <transaction>
+    <transaction_code>LOTMOVE</transaction_code>
+    <transaction_date>
+      <tran_month>11</tran_month>
+      <tran_day>27</tran_day>
+      <tran_year>2019</tran_year>
+      <tran_time>14:06:55</tran_time>
+    </transaction_date>
+    <invoice>
+      <invoice_number />
+      <target_location />
+    </invoice>
+    <customer_lot>
+      <cust_lot_type>PS</cust_lot_type>
+      <cust_lot_num>CUJ460120</cust_lot_num>
+    </customer_lot>
+    <source_lot>
+      <src_lot_type>PS</src_lot_type>
+      <src_lot_number>CUJ460120</src_lot_number>
+      <src_lot_category>NORMAL</src_lot_category>
+      <src_lot_qty>15000</src_lot_qty>
+      <src_device>MM74HC14MTCX</src_device>
+      <src_location>TEST</src_location>
+    </source_lot>
+    <assembly_step>
+      <step_name />
+      <step_out_qty />
+    </assembly_step>
+    <test_insertion>
+      <insertion_name />
+      <insertion_qty_out />
+    </test_insertion>
+    <target_lot>
+      <tgt_lot_type>PS</tgt_lot_type>
+      <tgt_lot_number>CUJ460120</tgt_lot_number>
+      <tgt_lot_category>NORMAL</tgt_lot_category>
+      <tgt_lot_qty>15000</tgt_lot_qty>
+      <tgt_device>MM74HC14MTCX</tgt_device>
+      <tgt_location>FGSH</tgt_location>
+    </target_lot>
+    <comp_lot>
+      <comp_lot_type />
+      <comp_lot_number />
+      <comp_lot_category />
+      <comp_lot_qty />
+      <comp_device />
+      <comp_location />
+    </comp_lot>
+    <date_code>
+      <date_code1 />
+      <date_code2 />
+    </date_code>
+    <reject>
+      <reject_code />
+      <reject_location />
+      <reject_qty />
+      <reject_comment />
+    </reject>
+    <bonus>
+      <bonus_code />
+      <bonus_location />
+      <bonus_qty />
+      <bonus_comment />
+    </bonus>
+    <commit_date>
+      <commit_month />
+      <commit_day />
+      <commit_year />
+      <commit_time />
+    </commit_date>
+    <hold_lot>
+      <held_reason />
+      <held_location />
+      <held_comment />
+    </hold_lot>
+  </transaction>
+  <transaction>
+    <transaction_code>LOTSHIP</transaction_code>
+    <transaction_date>
+      <tran_month>11</tran_month>
+      <tran_day>27</tran_day>
+      <tran_year>2019</tran_year>
+      <tran_time>14:07:55</tran_time>
+    </transaction_date>
+    <invoice>
+      <invoice_number>134408</invoice_number>
+      <target_location>MGDC</target_location>
+    </invoice>
+    <customer_lot>
+      <cust_lot_type>PS</cust_lot_type>
+      <cust_lot_num>CUJ460153</cust_lot_num>
+    </customer_lot>
+    <source_lot>
+      <src_lot_type>PS</src_lot_type>
+      <src_lot_number>CUJ460153</src_lot_number>
+      <src_lot_category>NORMAL</src_lot_category>
+      <src_lot_qty>15000</src_lot_qty>
+      <src_device>74LCX14MTCX</src_device>
+      <src_location>FGSH</src_location>
+    </source_lot>
+    <assembly_step>
+      <step_name />
+      <step_out_qty />
+    </assembly_step>
+    <test_insertion>
+      <insertion_name />
+      <insertion_qty_out />
+    </test_insertion>
+    <target_lot>
+      <tgt_lot_type />
+      <tgt_lot_number />
+      <tgt_lot_category />
+      <tgt_lot_qty />
+      <tgt_device />
+      <tgt_location />
+    </target_lot>
+    <comp_lot>
+      <comp_lot_type />
+      <comp_lot_number />
+      <comp_lot_category />
+      <comp_lot_qty />
+      <comp_device />
+      <comp_location />
+    </comp_lot>
+    <date_code>
+      <date_code1 />
+      <date_code2 />
+    </date_code>
+    <reject>
+      <reject_code />
+      <reject_location />
+      <reject_qty />
+      <reject_comment />
+    </reject>
+    <bonus>
+      <bonus_code />
+      <bonus_location />
+      <bonus_qty />
+      <bonus_comment />
+    </bonus>
+    <commit_date>
+      <commit_month />
+      <commit_day />
+      <commit_year />
+      <commit_time />
+    </commit_date>
+    <hold_lot>
+      <held_reason />
+      <held_location />
+      <held_comment />
+    </hold_lot>
+  </transaction>
+  <transaction>
+    <transaction_code>LOTSHIP</transaction_code>
+    <transaction_date>
+      <tran_month>11</tran_month>
+      <tran_day>27</tran_day>
+      <tran_year>2019</tran_year>
+      <tran_time>14:07:55</tran_time>
+    </transaction_date>
+    <invoice>
+      <invoice_number>134408</invoice_number>
+      <target_location>MGDC</target_location>
+    </invoice>
+    <customer_lot>
+      <cust_lot_type>PS</cust_lot_type>
+      <cust_lot_num>CUJ460101</cust_lot_num>
+    </customer_lot>
+    <source_lot>
+      <src_lot_type>PS</src_lot_type>
+      <src_lot_number>CUJ460101</src_lot_number>
+      <src_lot_category>NORMAL</src_lot_category>
+      <src_lot_qty>15000</src_lot_qty>
+      <src_device>74VHC74MTCX-SF500950</src_device>
+      <src_location>FGSH</src_location>
+    </source_lot>
+    <assembly_step>
+      <step_name />
+      <step_out_qty />
+    </assembly_step>
+    <test_insertion>
+      <insertion_name />
+      <insertion_qty_out />
+    </test_insertion>
+    <target_lot>
+      <tgt_lot_type />
+      <tgt_lot_number />
+      <tgt_lot_category />
+      <tgt_lot_qty />
+      <tgt_device />
+      <tgt_location />
+    </target_lot>
+    <comp_lot>
+      <comp_lot_type />
+      <comp_lot_number />
+      <comp_lot_category />
+      <comp_lot_qty />
+      <comp_device />
+      <comp_location />
+    </comp_lot>
+    <date_code>
+      <date_code1 />
+      <date_code2 />
+    </date_code>
+    <reject>
+      <reject_code />
+      <reject_location />
+      <reject_qty />
+      <reject_comment />
+    </reject>
+    <bonus>
+      <bonus_code />
+      <bonus_location />
+      <bonus_qty />
+      <bonus_comment />
+    </bonus>
+    <commit_date>
+      <commit_month />
+      <commit_day />
+      <commit_year />
+      <commit_time />
+    </commit_date>
+    <hold_lot>
+      <held_reason />
+      <held_location />
+      <held_comment />
+    </hold_lot>
+  </transaction>
+  <transaction>
+    <transaction_code>LOTSHIP</transaction_code>
+    <transaction_date>
+      <tran_month>11</tran_month>
+      <tran_day>27</tran_day>
+      <tran_year>2019</tran_year>
+      <tran_time>14:07:55</tran_time>
+    </transaction_date>
+    <invoice>
+      <invoice_number>134408</invoice_number>
+      <target_location>MGDC</target_location>
+    </invoice>
+    <customer_lot>
+      <cust_lot_type>PS</cust_lot_type>
+      <cust_lot_num>CUJ460080</cust_lot_num>
+    </customer_lot>
+    <source_lot>
+      <src_lot_type>PS</src_lot_type>
+      <src_lot_number>CUJ460080</src_lot_number>
+      <src_lot_category>NORMAL</src_lot_category>
+      <src_lot_qty>15000</src_lot_qty>
+      <src_device>74VHC32MTCX</src_device>
+      <src_location>FGSH</src_location>
+    </source_lot>
+    <assembly_step>
+      <step_name />
+      <step_out_qty />
+    </assembly_step>
+    <test_insertion>
+      <insertion_name />
+      <insertion_qty_out />
+    </test_insertion>
+    <target_lot>
+      <tgt_lot_type />
+      <tgt_lot_number />
+      <tgt_lot_category />
+      <tgt_lot_qty />
+      <tgt_device />
+      <tgt_location />
+    </target_lot>
+    <comp_lot>
+      <comp_lot_type />
+      <comp_lot_number />
+      <comp_lot_category />
+      <comp_lot_qty />
+      <comp_device />
+      <comp_location />
+    </comp_lot>
+    <date_code>
+      <date_code1 />
+      <date_code2 />
+    </date_code>
+    <reject>
+      <reject_code />
+      <reject_location />
+      <reject_qty />
+      <reject_comment />
+    </reject>
+    <bonus>
+      <bonus_code />
+      <bonus_location />
+      <bonus_qty />
+      <bonus_comment />
+    </bonus>
+    <commit_date>
+      <commit_month />
+      <commit_day />
+      <commit_year />
+      <commit_time />
+    </commit_date>
+    <hold_lot>
+      <held_reason />
+      <held_location />
+      <held_comment />
+    </hold_lot>
+  </transaction>
+  <transaction>
+    <transaction_code>LOTSHIP</transaction_code>
+    <transaction_date>
+      <tran_month>11</tran_month>
+      <tran_day>27</tran_day>
+      <tran_year>2019</tran_year>
+      <tran_time>14:07:55</tran_time>
+    </transaction_date>
+    <invoice>
+      <invoice_number>134408</invoice_number>
+      <target_location>MGDC</target_location>
+    </invoice>
+    <customer_lot>
+      <cust_lot_type>PS</cust_lot_type>
+      <cust_lot_num>CUJ370100</cust_lot_num>
+    </customer_lot>
+    <source_lot>
+      <src_lot_type>PS</src_lot_type>
+      <src_lot_number>CUJ370100</src_lot_number>
+      <src_lot_category>NORMAL</src_lot_category>
+      <src_lot_qty>5000</src_lot_qty>
+      <src_device>FIN1216MTDX</src_device>
+      <src_location>FGSH</src_location>
+    </source_lot>
+    <assembly_step>
+      <step_name />
+      <step_out_qty />
+    </assembly_step>
+    <test_insertion>
+      <insertion_name />
+      <insertion_qty_out />
+    </test_insertion>
+    <target_lot>
+      <tgt_lot_type />
+      <tgt_lot_number />
+      <tgt_lot_category />
+      <tgt_lot_qty />
+      <tgt_device />
+      <tgt_location />
+    </target_lot>
+    <comp_lot>
+      <comp_lot_type />
+      <comp_lot_number />
+      <comp_lot_category />
+      <comp_lot_qty />
+      <comp_device />
+      <comp_location />
+    </comp_lot>
+    <date_code>
+      <date_code1 />
+      <date_code2 />
+    </date_code>
+    <reject>
+      <reject_code />
+      <reject_location />
+      <reject_qty />
+      <reject_comment />
+    </reject>
+    <bonus>
+      <bonus_code />
+      <bonus_location />
+      <bonus_qty />
+      <bonus_comment />
+    </bonus>
+    <commit_date>
+      <commit_month />
+      <commit_day />
+      <commit_year />
+      <commit_time />
+    </commit_date>
+    <hold_lot>
+      <held_reason />
+      <held_location />
+      <held_comment />
+    </hold_lot>
+  </transaction>
+  <transaction>
+    <transaction_code>LOTSHIP</transaction_code>
+    <transaction_date>
+      <tran_month>11</tran_month>
+      <tran_day>27</tran_day>
+      <tran_year>2019</tran_year>
+      <tran_time>14:07:55</tran_time>
+    </transaction_date>
+    <invoice>
+      <invoice_number>134408</invoice_number>
+      <target_location>MGDC</target_location>
+    </invoice>
+    <customer_lot>
+      <cust_lot_type>PS</cust_lot_type>
+      <cust_lot_num>CUJ460120</cust_lot_num>
+    </customer_lot>
+    <source_lot>
+      <src_lot_type>PS</src_lot_type>
+      <src_lot_number>CUJ460120</src_lot_number>
+      <src_lot_category>NORMAL</src_lot_category>
+      <src_lot_qty>15000</src_lot_qty>
+      <src_device>MM74HC14MTCX</src_device>
+      <src_location>FGSH</src_location>
+    </source_lot>
+    <assembly_step>
+      <step_name />
+      <step_out_qty />
+    </assembly_step>
+    <test_insertion>
+      <insertion_name />
+      <insertion_qty_out />
+    </test_insertion>
+    <target_lot>
+      <tgt_lot_type />
+      <tgt_lot_number />
+      <tgt_lot_category />
+      <tgt_lot_qty />
+      <tgt_device />
+      <tgt_location />
+    </target_lot>
+    <comp_lot>
+      <comp_lot_type />
+      <comp_lot_number />
+      <comp_lot_category />
+      <comp_lot_qty />
+      <comp_device />
+      <comp_location />
+    </comp_lot>
+    <date_code>
+      <date_code1 />
+      <date_code2 />
+    </date_code>
+    <reject>
+      <reject_code />
+      <reject_location />
+      <reject_qty />
+      <reject_comment />
+    </reject>
+    <bonus>
+      <bonus_code />
+      <bonus_location />
+      <bonus_qty />
+      <bonus_comment />
+    </bonus>
+    <commit_date>
+      <commit_month />
+      <commit_day />
+      <commit_year />
+      <commit_time />
+    </commit_date>
+    <hold_lot>
+      <held_reason />
+      <held_location />
+      <held_comment />
+    </hold_lot>
+  </transaction>
+  <transaction>
+    <transaction_code>LOTSHIP</transaction_code>
+    <transaction_date>
+      <tran_month>11</tran_month>
+      <tran_day>27</tran_day>
+      <tran_year>2019</tran_year>
+      <tran_time>14:07:55</tran_time>
+    </transaction_date>
+    <invoice>
+      <invoice_number>134408</invoice_number>
+      <target_location>MGDC</target_location>
+    </invoice>
+    <customer_lot>
+      <cust_lot_type>PS</cust_lot_type>
+      <cust_lot_num>CUJ460129</cust_lot_num>
+    </customer_lot>
+    <source_lot>
+      <src_lot_type>PS</src_lot_type>
+      <src_lot_number>CUJ460129</src_lot_number>
+      <src_lot_category>NORMAL</src_lot_category>
+      <src_lot_qty>15000</src_lot_qty>
+      <src_device>74LCX08MTCX</src_device>
+      <src_location>FGSH</src_location>
+    </source_lot>
+    <assembly_step>
+      <step_name />
+      <step_out_qty />
+    </assembly_step>
+    <test_insertion>
+      <insertion_name />
+      <insertion_qty_out />
+    </test_insertion>
+    <target_lot>
+      <tgt_lot_type />
+      <tgt_lot_number />
+      <tgt_lot_category />
+      <tgt_lot_qty />
+      <tgt_device />
+      <tgt_location />
+    </target_lot>
+    <comp_lot>
+      <comp_lot_type />
+      <comp_lot_number />
+      <comp_lot_category />
+      <comp_lot_qty />
+      <comp_device />
+      <comp_location />
+    </comp_lot>
+    <date_code>
+      <date_code1 />
+      <date_code2 />
+    </date_code>
+    <reject>
+      <reject_code />
+      <reject_location />
+      <reject_qty />
+      <reject_comment />
+    </reject>
+    <bonus>
+      <bonus_code />
+      <bonus_location />
+      <bonus_qty />
+      <bonus_comment />
+    </bonus>
+    <commit_date>
+      <commit_month />
+      <commit_day />
+      <commit_year />
+      <commit_time />
+    </commit_date>
+    <hold_lot>
+      <held_reason />
+      <held_location />
+      <held_comment />
+    </hold_lot>
+  </transaction>
+  <transaction>
+    <transaction_code>LOTSHIP</transaction_code>
+    <transaction_date>
+      <tran_month>11</tran_month>
+      <tran_day>27</tran_day>
+      <tran_year>2019</tran_year>
+      <tran_time>14:07:55</tran_time>
+    </transaction_date>
+    <invoice>
+      <invoice_number>134408</invoice_number>
+      <target_location>MGDC</target_location>
+    </invoice>
+    <customer_lot>
+      <cust_lot_type>PS</cust_lot_type>
+      <cust_lot_num>CUJ460175</cust_lot_num>
+    </customer_lot>
+    <source_lot>
+      <src_lot_type>PS</src_lot_type>
+      <src_lot_number>CUJ460175</src_lot_number>
+      <src_lot_category>NORMAL</src_lot_category>
+      <src_lot_qty>10000</src_lot_qty>
+      <src_device>FST3257MTCX</src_device>
+      <src_location>FGSH</src_location>
+    </source_lot>
+    <assembly_step>
+      <step_name />
+      <step_out_qty />
+    </assembly_step>
+    <test_insertion>
+      <insertion_name />
+      <insertion_qty_out />
+    </test_insertion>
+    <target_lot>
+      <tgt_lot_type />
+      <tgt_lot_number />
+      <tgt_lot_category />
+      <tgt_lot_qty />
+      <tgt_device />
+      <tgt_location />
+    </target_lot>
+    <comp_lot>
+      <comp_lot_type />
+      <comp_lot_number />
+      <comp_lot_category />
+      <comp_lot_qty />
+      <comp_device />
+      <comp_location />
+    </comp_lot>
+    <date_code>
+      <date_code1 />
+      <date_code2 />
+    </date_code>
+    <reject>
+      <reject_code />
+      <reject_location />
+      <reject_qty />
+      <reject_comment />
+    </reject>
+    <bonus>
+      <bonus_code />
+      <bonus_location />
+      <bonus_qty />
+      <bonus_comment />
+    </bonus>
+    <commit_date>
+      <commit_month />
+      <commit_day />
+      <commit_year />
+      <commit_time />
+    </commit_date>
+    <hold_lot>
+      <held_reason />
+      <held_location />
+      <held_comment />
+    </hold_lot>
+  </transaction>
+  <transaction>
+    <transaction_code>LOTSHIP</transaction_code>
+    <transaction_date>
+      <tran_month>11</tran_month>
+      <tran_day>27</tran_day>
+      <tran_year>2019</tran_year>
+      <tran_time>14:07:55</tran_time>
+    </transaction_date>
+    <invoice>
+      <invoice_number>134408</invoice_number>
+      <target_location>MGDC</target_location>
+    </invoice>
+    <customer_lot>
+      <cust_lot_type>PS</cust_lot_type>
+      <cust_lot_num>CUJ460081</cust_lot_num>
+    </customer_lot>
+    <source_lot>
+      <src_lot_type>PS</src_lot_type>
+      <src_lot_number>CUJ460081</src_lot_number>
+      <src_lot_category>NORMAL</src_lot_category>
+      <src_lot_qty>15000</src_lot_qty>
+      <src_device>74VHC32MTCX</src_device>
+      <src_location>FGSH</src_location>
+    </source_lot>
+    <assembly_step>
+      <step_name />
+      <step_out_qty />
+    </assembly_step>
+    <test_insertion>
+      <insertion_name />
+      <insertion_qty_out />
+    </test_insertion>
+    <target_lot>
+      <tgt_lot_type />
+      <tgt_lot_number />
+      <tgt_lot_category />
+      <tgt_lot_qty />
+      <tgt_device />
+      <tgt_location />
+    </target_lot>
+    <comp_lot>
+      <comp_lot_type />
+      <comp_lot_number />
+      <comp_lot_category />
+      <comp_lot_qty />
+      <comp_device />
+      <comp_location />
+    </comp_lot>
+    <date_code>
+      <date_code1 />
+      <date_code2 />
+    </date_code>
+    <reject>
+      <reject_code />
+      <reject_location />
+      <reject_qty />
+      <reject_comment />
+    </reject>
+    <bonus>
+      <bonus_code />
+      <bonus_location />
+      <bonus_qty />
+      <bonus_comment />
+    </bonus>
+    <commit_date>
+      <commit_month />
+      <commit_day />
+      <commit_year />
+      <commit_time />
+    </commit_date>
+    <hold_lot>
+      <held_reason />
+      <held_location />
+      <held_comment />
+    </hold_lot>
+  </transaction>
+  <transaction>
+    <transaction_code>LOTSHIP</transaction_code>
+    <transaction_date>
+      <tran_month>11</tran_month>
+      <tran_day>27</tran_day>
+      <tran_year>2019</tran_year>
+      <tran_time>14:07:55</tran_time>
+    </transaction_date>
+    <invoice>
+      <invoice_number>134408</invoice_number>
+      <target_location>MGDC</target_location>
+    </invoice>
+    <customer_lot>
+      <cust_lot_type>PS</cust_lot_type>
+      <cust_lot_num>CUJ460086</cust_lot_num>
+    </customer_lot>
+    <source_lot>
+      <src_lot_type>PS</src_lot_type>
+      <src_lot_number>CUJ460086</src_lot_number>
+      <src_lot_category>NORMAL</src_lot_category>
+      <src_lot_qty>15000</src_lot_qty>
+      <src_device>74VHC32MTCX</src_device>
+      <src_location>FGSH</src_location>
+    </source_lot>
+    <assembly_step>
+      <step_name />
+      <step_out_qty />
+    </assembly_step>
+    <test_insertion>
+      <insertion_name />
+      <insertion_qty_out />
+    </test_insertion>
+    <target_lot>
+      <tgt_lot_type />
+      <tgt_lot_number />
+      <tgt_lot_category />
+      <tgt_lot_qty />
+      <tgt_device />
+      <tgt_location />
+    </target_lot>
+    <comp_lot>
+      <comp_lot_type />
+      <comp_lot_number />
+      <comp_lot_category />
+      <comp_lot_qty />
+      <comp_device />
+      <comp_location />
+    </comp_lot>
+    <date_code>
+      <date_code1 />
+      <date_code2 />
+    </date_code>
+    <reject>
+      <reject_code />
+      <reject_location />
+      <reject_qty />
+      <reject_comment />
+    </reject>
+    <bonus>
+      <bonus_code />
+      <bonus_location />
+      <bonus_qty />
+      <bonus_comment />
+    </bonus>
+    <commit_date>
+      <commit_month />
+      <commit_day />
+      <commit_year />
+      <commit_time />
+    </commit_date>
+    <hold_lot>
+      <held_reason />
+      <held_location />
+      <held_comment />
+    </hold_lot>
+  </transaction>
+  <transaction>
+    <transaction_code>LOTSHIP</transaction_code>
+    <transaction_date>
+      <tran_month>11</tran_month>
+      <tran_day>27</tran_day>
+      <tran_year>2019</tran_year>
+      <tran_time>14:07:55</tran_time>
+    </transaction_date>
+    <invoice>
+      <invoice_number>134408</invoice_number>
+      <target_location>MGDC</target_location>
+    </invoice>
+    <customer_lot>
+      <cust_lot_type>PS</cust_lot_type>
+      <cust_lot_num>CUJ460154</cust_lot_num>
+    </customer_lot>
+    <source_lot>
+      <src_lot_type>PS</src_lot_type>
+      <src_lot_number>CUJ460154</src_lot_number>
+      <src_lot_category>NORMAL</src_lot_category>
+      <src_lot_qty>15000</src_lot_qty>
+      <src_device>74LCX14MTCX</src_device>
+      <src_location>FGSH</src_location>
+    </source_lot>
+    <assembly_step>
+      <step_name />
+      <step_out_qty />
+    </assembly_step>
+    <test_insertion>
+      <insertion_name />
+      <insertion_qty_out />
+    </test_insertion>
+    <target_lot>
+      <tgt_lot_type />
+      <tgt_lot_number />
+      <tgt_lot_category />
+      <tgt_lot_qty />
+      <tgt_device />
+      <tgt_location />
+    </target_lot>
+    <comp_lot>
+      <comp_lot_type />
+      <comp_lot_number />
+      <comp_lot_category />
+      <comp_lot_qty />
+      <comp_device />
+      <comp_location />
+    </comp_lot>
+    <date_code>
+      <date_code1 />
+      <date_code2 />
+    </date_code>
+    <reject>
+      <reject_code />
+      <reject_location />
+      <reject_qty />
+      <reject_comment />
+    </reject>
+    <bonus>
+      <bonus_code />
+      <bonus_location />
+      <bonus_qty />
+      <bonus_comment />
+    </bonus>
+    <commit_date>
+      <commit_month />
+      <commit_day />
+      <commit_year />
+      <commit_time />
+    </commit_date>
+    <hold_lot>
+      <held_reason />
+      <held_location />
+      <held_comment />
+    </hold_lot>
+  </transaction>
+  <transaction>
+    <transaction_code>LOTSHIP</transaction_code>
+    <transaction_date>
+      <tran_month>11</tran_month>
+      <tran_day>27</tran_day>
+      <tran_year>2019</tran_year>
+      <tran_time>14:07:55</tran_time>
+    </transaction_date>
+    <invoice>
+      <invoice_number>134408</invoice_number>
+      <target_location>MGDC</target_location>
+    </invoice>
+    <customer_lot>
+      <cust_lot_type>PS</cust_lot_type>
+      <cust_lot_num>CUJ460113</cust_lot_num>
+    </customer_lot>
+    <source_lot>
+      <src_lot_type>PS</src_lot_type>
+      <src_lot_number>CUJ460113</src_lot_number>
+      <src_lot_category>NORMAL</src_lot_category>
+      <src_lot_qty>15000</src_lot_qty>
+      <src_device>MM74HC14MTCX</src_device>
+      <src_location>FGSH</src_location>
+    </source_lot>
+    <assembly_step>
+      <step_name />
+      <step_out_qty />
+    </assembly_step>
+    <test_insertion>
+      <insertion_name />
+      <insertion_qty_out />
+    </test_insertion>
+    <target_lot>
+      <tgt_lot_type />
+      <tgt_lot_number />
+      <tgt_lot_category />
+      <tgt_lot_qty />
+      <tgt_device />
+      <tgt_location />
+    </target_lot>
+    <comp_lot>
+      <comp_lot_type />
+      <comp_lot_number />
+      <comp_lot_category />
+      <comp_lot_qty />
+      <comp_device />
+      <comp_location />
+    </comp_lot>
+    <date_code>
+      <date_code1 />
+      <date_code2 />
+    </date_code>
+    <reject>
+      <reject_code />
+      <reject_location />
+      <reject_qty />
+      <reject_comment />
+    </reject>
+    <bonus>
+      <bonus_code />
+      <bonus_location />
+      <bonus_qty />
+      <bonus_comment />
+    </bonus>
+    <commit_date>
+      <commit_month />
+      <commit_day />
+      <commit_year />
+      <commit_time />
+    </commit_date>
+    <hold_lot>
+      <held_reason />
+      <held_location />
+      <held_comment />
+    </hold_lot>
+  </transaction>
+  <transaction>
+    <transaction_code>LOTSHIP</transaction_code>
+    <transaction_date>
+      <tran_month>11</tran_month>
+      <tran_day>27</tran_day>
+      <tran_year>2019</tran_year>
+      <tran_time>14:07:55</tran_time>
+    </transaction_date>
+    <invoice>
+      <invoice_number>134408</invoice_number>
+      <target_location>MGDC</target_location>
+    </invoice>
+    <customer_lot>
+      <cust_lot_type>PS</cust_lot_type>
+      <cust_lot_num>CUJ450077</cust_lot_num>
+    </customer_lot>
+    <source_lot>
+      <src_lot_type>PS</src_lot_type>
+      <src_lot_number>CUJ450077</src_lot_number>
+      <src_lot_category>NORMAL</src_lot_category>
+      <src_lot_qty>10000</src_lot_qty>
+      <src_device>FIN1031MTCX</src_device>
+      <src_location>FGSH</src_location>
+    </source_lot>
+    <assembly_step>
+      <step_name />
+      <step_out_qty />
+    </assembly_step>
+    <test_insertion>
+      <insertion_name />
+      <insertion_qty_out />
+    </test_insertion>
+    <target_lot>
+      <tgt_lot_type />
+      <tgt_lot_number />
+      <tgt_lot_category />
+      <tgt_lot_qty />
+      <tgt_device />
+      <tgt_location />
+    </target_lot>
+    <comp_lot>
+      <comp_lot_type />
+      <comp_lot_number />
+      <comp_lot_category />
+      <comp_lot_qty />
+      <comp_device />
+      <comp_location />
+    </comp_lot>
+    <date_code>
+      <date_code1 />
+      <date_code2 />
+    </date_code>
+    <reject>
+      <reject_code />
+      <reject_location />
+      <reject_qty />
+      <reject_comment />
+    </reject>
+    <bonus>
+      <bonus_code />
+      <bonus_location />
+      <bonus_qty />
+      <bonus_comment />
+    </bonus>
+    <commit_date>
+      <commit_month />
+      <commit_day />
+      <commit_year />
+      <commit_time />
+    </commit_date>
+    <hold_lot>
+      <held_reason />
+      <held_location />
+      <held_comment />
+    </hold_lot>
+  </transaction>
+  <transaction>
+    <transaction_code>LOTSHIP</transaction_code>
+    <transaction_date>
+      <tran_month>11</tran_month>
+      <tran_day>27</tran_day>
+      <tran_year>2019</tran_year>
+      <tran_time>14:07:55</tran_time>
+    </transaction_date>
+    <invoice>
+      <invoice_number>134408</invoice_number>
+      <target_location>MGDC</target_location>
+    </invoice>
+    <customer_lot>
+      <cust_lot_type>PS</cust_lot_type>
+      <cust_lot_num>CUJ460096</cust_lot_num>
+    </customer_lot>
+    <source_lot>
+      <src_lot_type>PS</src_lot_type>
+      <src_lot_number>CUJ460096</src_lot_number>
+      <src_lot_category>NORMAL</src_lot_category>
+      <src_lot_qty>15000</src_lot_qty>
+      <src_device>74VHC74MTCX-SF500950</src_device>
+      <src_location>FGSH</src_location>
+    </source_lot>
+    <assembly_step>
+      <step_name />
+      <step_out_qty />
+    </assembly_step>
+    <test_insertion>
+      <insertion_name />
+      <insertion_qty_out />
+    </test_insertion>
+    <target_lot>
+      <tgt_lot_type />
+      <tgt_lot_number />
+      <tgt_lot_category />
+      <tgt_lot_qty />
+      <tgt_device />
+      <tgt_location />
+    </target_lot>
+    <comp_lot>
+      <comp_lot_type />
+      <comp_lot_number />
+      <comp_lot_category />
+      <comp_lot_qty />
+      <comp_device />
+      <comp_location />
+    </comp_lot>
+    <date_code>
+      <date_code1 />
+      <date_code2 />
+    </date_code>
+    <reject>
+      <reject_code />
+      <reject_location />
+      <reject_qty />
+      <reject_comment />
+    </reject>
+    <bonus>
+      <bonus_code />
+      <bonus_location />
+      <bonus_qty />
+      <bonus_comment />
+    </bonus>
+    <commit_date>
+      <commit_month />
+      <commit_day />
+      <commit_year />
+      <commit_time />
+    </commit_date>
+    <hold_lot>
+      <held_reason />
+      <held_location />
+      <held_comment />
+    </hold_lot>
+  </transaction>
+  <transaction>
+    <transaction_code>LOTMOVE</transaction_code>
+    <transaction_date>
+      <tran_month>11</tran_month>
+      <tran_day>27</tran_day>
+      <tran_year>2019</tran_year>
+      <tran_time>14:08:45</tran_time>
+    </transaction_date>
+    <invoice>
+      <invoice_number />
+      <target_location />
+    </invoice>
+    <customer_lot>
+      <cust_lot_type>PS</cust_lot_type>
+      <cust_lot_num>CUJ430378</cust_lot_num>
+    </customer_lot>
+    <source_lot>
+      <src_lot_type>PS</src_lot_type>
+      <src_lot_number>CUJ430378</src_lot_number>
+      <src_lot_category>NORMAL</src_lot_category>
+      <src_lot_qty>12500</src_lot_qty>
+      <src_device>MC74HC151ADTR2G</src_device>
+      <src_location>TEST</src_location>
+    </source_lot>
+    <assembly_step>
+      <step_name />
+      <step_out_qty />
+    </assembly_step>
+    <test_insertion>
+      <insertion_name />
+      <insertion_qty_out />
+    </test_insertion>
+    <target_lot>
+      <tgt_lot_type>PS</tgt_lot_type>
+      <tgt_lot_number>CUJ430378</tgt_lot_number>
+      <tgt_lot_category>NORMAL</tgt_lot_category>
+      <tgt_lot_qty>12500</tgt_lot_qty>
+      <tgt_device>MC74HC151ADTR2G</tgt_device>
+      <tgt_location>FGSH</tgt_location>
+    </target_lot>
+    <comp_lot>
+      <comp_lot_type />
+      <comp_lot_number />
+      <comp_lot_category />
+      <comp_lot_qty />
+      <comp_device />
+      <comp_location />
+    </comp_lot>
+    <date_code>
+      <date_code1 />
+      <date_code2 />
+    </date_code>
+    <reject>
+      <reject_code />
+      <reject_location />
+      <reject_qty />
+      <reject_comment />
+    </reject>
+    <bonus>
+      <bonus_code />
+      <bonus_location />
+      <bonus_qty />
+      <bonus_comment />
+    </bonus>
+    <commit_date>
+      <commit_month />
+      <commit_day />
+      <commit_year />
+      <commit_time />
+    </commit_date>
+    <hold_lot>
+      <held_reason />
+      <held_location />
+      <held_comment />
+    </hold_lot>
+  </transaction>
+  <transaction>
+    <transaction_code>LOTMOVE</transaction_code>
+    <transaction_date>
+      <tran_month>11</tran_month>
+      <tran_d

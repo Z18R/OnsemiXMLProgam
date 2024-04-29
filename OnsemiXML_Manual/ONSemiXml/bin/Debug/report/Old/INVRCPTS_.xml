@@ -1,0 +1,843 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<dataexchange>
+  <subcon>
+    <inv_org>PH4</inv_org>
+    <subcon_name>ATEC</subcon_name>
+  </subcon>
+  <transaction>
+    <transaction_code>INVRCPTS</transaction_code>
+    <transaction_date>
+      <tran_month>02</tran_month>
+      <tran_day>18</tran_day>
+      <tran_year>2017</tran_year>
+      <tran_time>08:50:00</tran_time>
+    </transaction_date>
+    <invoice>
+      <invoice_number>#696155221</invoice_number>
+      <target_location />
+    </invoice>
+    <customer_lot>
+      <cust_lot_type>PS</cust_lot_type>
+      <cust_lot_num>P348002-OW056497</cust_lot_num>
+    </customer_lot>
+    <source_lot>
+      <src_lot_type>PS</src_lot_type>
+      <src_lot_number>P348002-OW056497</src_lot_number>
+      <src_lot_category>NORMAL</src_lot_category>
+      <src_lot_qty>162079</src_lot_qty>
+      <src_device>SKS665</src_device>
+      <src_location>DIWH</src_location>
+    </source_lot>
+    <assembly_step>
+      <step_name />
+      <step_out_qty />
+    </assembly_step>
+    <test_insertion>
+      <insertion_name />
+      <insertion_qty_out />
+    </test_insertion>
+    <target_lot>
+      <tgt_lot_type>PS</tgt_lot_type>
+      <tgt_lot_number>P348002-OW056497</tgt_lot_number>
+      <tgt_lot_category>NORMAL</tgt_lot_category>
+      <tgt_lot_qty>162079</tgt_lot_qty>
+      <tgt_device>SKS665</tgt_device>
+      <tgt_location>DIWH</tgt_location>
+    </target_lot>
+    <comp_lot>
+      <comp_lot_type />
+      <comp_lot_number />
+      <comp_lot_category />
+      <comp_lot_qty />
+      <comp_device />
+      <comp_location />
+    </comp_lot>
+    <date_code>
+      <date_code1 />
+      <date_code2 />
+    </date_code>
+    <reject>
+      <reject_code />
+      <reject_location />
+      <reject_qty />
+      <reject_comment />
+    </reject>
+    <bonus>
+      <bonus_code />
+      <bonus_location />
+      <bonus_qty />
+      <bonus_comment />
+    </bonus>
+    <commit_date>
+      <commit_month />
+      <commit_day />
+      <commit_year />
+      <commit_time />
+    </commit_date>
+    <hold_lot>
+      <held_reason />
+      <held_location />
+      <held_comment />
+    </hold_lot>
+  </transaction>
+  <transaction>
+    <transaction_code>INVRCPTS</transaction_code>
+    <transaction_date>
+      <tran_month>02</tran_month>
+      <tran_day>18</tran_day>
+      <tran_year>2017</tran_year>
+      <tran_time>08:51:00</tran_time>
+    </transaction_date>
+    <invoice>
+      <invoice_number>#696155221</invoice_number>
+      <target_location />
+    </invoice>
+    <customer_lot>
+      <cust_lot_type>PS</cust_lot_type>
+      <cust_lot_num>P348002-OW056543</cust_lot_num>
+    </customer_lot>
+    <source_lot>
+      <src_lot_type>PS</src_lot_type>
+      <src_lot_number>P348002-OW056543</src_lot_number>
+      <src_lot_category>NORMAL</src_lot_category>
+      <src_lot_qty>228748</src_lot_qty>
+      <src_device>SKS665</src_device>
+      <src_location>DIWH</src_location>
+    </source_lot>
+    <assembly_step>
+      <step_name />
+      <step_out_qty />
+    </assembly_step>
+    <test_insertion>
+      <insertion_name />
+      <insertion_qty_out />
+    </test_insertion>
+    <target_lot>
+      <tgt_lot_type>PS</tgt_lot_type>
+      <tgt_lot_number>P348002-OW056543</tgt_lot_number>
+      <tgt_lot_category>NORMAL</tgt_lot_category>
+      <tgt_lot_qty>228748</tgt_lot_qty>
+      <tgt_device>SKS665</tgt_device>
+      <tgt_location>DIWH</tgt_location>
+    </target_lot>
+    <comp_lot>
+      <comp_lot_type />
+      <comp_lot_number />
+      <comp_lot_category />
+      <comp_lot_qty />
+      <comp_device />
+      <comp_location />
+    </comp_lot>
+    <date_code>
+      <date_code1 />
+      <date_code2 />
+    </date_code>
+    <reject>
+      <reject_code />
+      <reject_location />
+      <reject_qty />
+      <reject_comment />
+    </reject>
+    <bonus>
+      <bonus_code />
+      <bonus_location />
+      <bonus_qty />
+      <bonus_comment />
+    </bonus>
+    <commit_date>
+      <commit_month />
+      <commit_day />
+      <commit_year />
+      <commit_time />
+    </commit_date>
+    <hold_lot>
+      <held_reason />
+      <held_location />
+      <held_comment />
+    </hold_lot>
+  </transaction>
+  <transaction>
+    <transaction_code>INVRCPTS</transaction_code>
+    <transaction_date>
+      <tran_month>02</tran_month>
+      <tran_day>18</tran_day>
+      <tran_year>2017</tran_year>
+      <tran_time>08:52:00</tran_time>
+    </transaction_date>
+    <invoice>
+      <invoice_number>#696155221</invoice_number>
+      <target_location />
+    </invoice>
+    <customer_lot>
+      <cust_lot_type>PS</cust_lot_type>
+      <cust_lot_num>P348002-OW056707</cust_lot_num>
+    </customer_lot>
+    <source_lot>
+      <src_lot_type>PS</src_lot_type>
+      <src_lot_number>P348002-OW056707</src_lot_number>
+      <src_lot_category>NORMAL</src_lot_category>
+      <src_lot_qty>109831</src_lot_qty>
+      <src_device>SKS665</src_device>
+      <src_location>DIWH</src_location>
+    </source_lot>
+    <assembly_step>
+      <step_name />
+      <step_out_qty />
+    </assembly_step>
+    <test_insertion>
+      <insertion_name />
+      <insertion_qty_out />
+    </test_insertion>
+    <target_lot>
+      <tgt_lot_type>PS</tgt_lot_type>
+      <tgt_lot_number>P348002-OW056707</tgt_lot_number>
+      <tgt_lot_category>NORMAL</tgt_lot_category>
+      <tgt_lot_qty>109831</tgt_lot_qty>
+      <tgt_device>SKS665</tgt_device>
+      <tgt_location>DIWH</tgt_location>
+    </target_lot>
+    <comp_lot>
+      <comp_lot_type />
+      <comp_lot_number />
+      <comp_lot_category />
+      <comp_lot_qty />
+      <comp_device />
+      <comp_location />
+    </comp_lot>
+    <date_code>
+      <date_code1 />
+      <date_code2 />
+    </date_code>
+    <reject>
+      <reject_code />
+      <reject_location />
+      <reject_qty />
+      <reject_comment />
+    </reject>
+    <bonus>
+      <bonus_code />
+      <bonus_location />
+      <bonus_qty />
+      <bonus_comment />
+    </bonus>
+    <commit_date>
+      <commit_month />
+      <commit_day />
+      <commit_year />
+      <commit_time />
+    </commit_date>
+    <hold_lot>
+      <held_reason />
+      <held_location />
+      <held_comment />
+    </hold_lot>
+  </transaction>
+  <transaction>
+    <transaction_code>INVRCPTS</transaction_code>
+    <transaction_date>
+      <tran_month>02</tran_month>
+      <tran_day>18</tran_day>
+      <tran_year>2017</tran_year>
+      <tran_time>08:56:00</tran_time>
+    </transaction_date>
+    <invoice>
+      <invoice_number>#696155221</invoice_number>
+      <target_location />
+    </invoice>
+    <customer_lot>
+      <cust_lot_type>PS</cust_lot_type>
+      <cust_lot_num>P348002-OW056553</cust_lot_num>
+    </customer_lot>
+    <source_lot>
+      <src_lot_type>PS</src_lot_type>
+      <src_lot_number>P348002-OW056553</src_lot_number>
+      <src_lot_category>NORMAL</src_lot_category>
+      <src_lot_qty>205472</src_lot_qty>
+      <src_device>SKS665</src_device>
+      <src_location>DIWH</src_location>
+    </source_lot>
+    <assembly_step>
+      <step_name />
+      <step_out_qty />
+    </assembly_step>
+    <test_insertion>
+      <insertion_name />
+      <insertion_qty_out />
+    </test_insertion>
+    <target_lot>
+      <tgt_lot_type>PS</tgt_lot_type>
+      <tgt_lot_number>P348002-OW056553</tgt_lot_number>
+      <tgt_lot_category>NORMAL</tgt_lot_category>
+      <tgt_lot_qty>205472</tgt_lot_qty>
+      <tgt_device>SKS665</tgt_device>
+      <tgt_location>DIWH</tgt_location>
+    </target_lot>
+    <comp_lot>
+      <comp_lot_type />
+      <comp_lot_number />
+      <comp_lot_category />
+      <comp_lot_qty />
+      <comp_device />
+      <comp_location />
+    </comp_lot>
+    <date_code>
+      <date_code1 />
+      <date_code2 />
+    </date_code>
+    <reject>
+      <reject_code />
+      <reject_location />
+      <reject_qty />
+      <reject_comment />
+    </reject>
+    <bonus>
+      <bonus_code />
+      <bonus_location />
+      <bonus_qty />
+      <bonus_comment />
+    </bonus>
+    <commit_date>
+      <commit_month />
+      <commit_day />
+      <commit_year />
+      <commit_time />
+    </commit_date>
+    <hold_lot>
+      <held_reason />
+      <held_location />
+      <held_comment />
+    </hold_lot>
+  </transaction>
+  <transaction>
+    <transaction_code>INVRCPTS</transaction_code>
+    <transaction_date>
+      <tran_month>02</tran_month>
+      <tran_day>18</tran_day>
+      <tran_year>2017</tran_year>
+      <tran_time>10:00:00</tran_time>
+    </transaction_date>
+    <invoice>
+      <invoice_number>#17214-1A</invoice_number>
+      <target_location />
+    </invoice>
+    <customer_lot>
+      <cust_lot_type>PS</cust_lot_type>
+      <cust_lot_num>00_261.2</cust_lot_num>
+    </customer_lot>
+    <source_lot>
+      <src_lot_type>PS</src_lot_type>
+      <src_lot_number>00_261.2</src_lot_number>
+      <src_lot_category>NORMAL</src_lot_category>
+      <src_lot_qty>6367</src_lot_qty>
+      <src_device>RLWK-35</src_device>
+      <src_location>DIWH</src_location>
+    </source_lot>
+    <assembly_step>
+      <step_name />
+      <step_out_qty />
+    </assembly_step>
+    <test_insertion>
+      <insertion_name />
+      <insertion_qty_out />
+    </test_insertion>
+    <target_lot>
+      <tgt_lot_type>PS</tgt_lot_type>
+      <tgt_lot_number>00_261.2</tgt_lot_number>
+      <tgt_lot_category>NORMAL</tgt_lot_category>
+      <tgt_lot_qty>6367</tgt_lot_qty>
+      <tgt_device>RLWK-35</tgt_device>
+      <tgt_location>DIWH</tgt_location>
+    </target_lot>
+    <comp_lot>
+      <comp_lot_type />
+      <comp_lot_number />
+      <comp_lot_category />
+      <comp_lot_qty />
+      <comp_device />
+      <comp_location />
+    </comp_lot>
+    <date_code>
+      <date_code1 />
+      <date_code2 />
+    </date_code>
+    <reject>
+      <reject_code />
+      <reject_location />
+      <reject_qty />
+      <reject_comment />
+    </reject>
+    <bonus>
+      <bonus_code />
+      <bonus_location />
+      <bonus_qty />
+      <bonus_comment />
+    </bonus>
+    <commit_date>
+      <commit_month />
+      <commit_day />
+      <commit_year />
+      <commit_time />
+    </commit_date>
+    <hold_lot>
+      <held_reason />
+      <held_location />
+      <held_comment />
+    </hold_lot>
+  </transaction>
+  <transaction>
+    <transaction_code>INVRCPTS</transaction_code>
+    <transaction_date>
+      <tran_month>02</tran_month>
+      <tran_day>18</tran_day>
+      <tran_year>2017</tran_year>
+      <tran_time>11:31:00</tran_time>
+    </transaction_date>
+    <invoice>
+      <invoice_number>#0041-17</invoice_number>
+      <target_location />
+    </invoice>
+    <customer_lot>
+      <cust_lot_type>PS</cust_lot_type>
+      <cust_lot_num>1650027PXAA</cust_lot_num>
+    </customer_lot>
+    <source_lot>
+      <src_lot_type>PS</src_lot_type>
+      <src_lot_number>1650027PXAA</src_lot_number>
+      <src_lot_category>NORMAL</src_lot_category>
+      <src_lot_qty>421475</src_lot_qty>
+      <src_device>7501-29-085-POL</src_device>
+      <src_location>DIWH</src_location>
+    </source_lot>
+    <assembly_step>
+      <step_name />
+      <step_out_qty />
+    </assembly_step>
+    <test_insertion>
+      <insertion_name />
+      <insertion_qty_out />
+    </test_insertion>
+    <target_lot>
+      <tgt_lot_type>PS</tgt_lot_type>
+      <tgt_lot_number>1650027PXAA</tgt_lot_number>
+      <tgt_lot_category>NORMAL</tgt_lot_category>
+      <tgt_lot_qty>421475</tgt_lot_qty>
+      <tgt_device>7501-29-085-POL</tgt_device>
+      <tgt_location>DIWH</tgt_location>
+    </target_lot>
+    <comp_lot>
+      <comp_lot_type />
+      <comp_lot_number />
+      <comp_lot_category />
+      <comp_lot_qty />
+      <comp_device />
+      <comp_location />
+    </comp_lot>
+    <date_code>
+      <date_code1 />
+      <date_code2 />
+    </date_code>
+    <reject>
+      <reject_code />
+      <reject_location />
+      <reject_qty />
+      <reject_comment />
+    </reject>
+    <bonus>
+      <bonus_code />
+      <bonus_location />
+      <bonus_qty />
+      <bonus_comment />
+    </bonus>
+    <commit_date>
+      <commit_month />
+      <commit_day />
+      <commit_year />
+      <commit_time />
+    </commit_date>
+    <hold_lot>
+      <held_reason />
+      <held_location />
+      <held_comment />
+    </hold_lot>
+  </transaction>
+  <transaction>
+    <transaction_code>INVRCPTS</transaction_code>
+    <transaction_date>
+      <tran_month>02</tran_month>
+      <tran_day>18</tran_day>
+      <tran_year>2017</tran_year>
+      <tran_time>21:41:00</tran_time>
+    </transaction_date>
+    <invoice>
+      <invoice_number>IAU1721333</invoice_number>
+      <target_location />
+    </invoice>
+    <customer_lot>
+      <cust_lot_type>PS</cust_lot_type>
+      <cust_lot_num>R9JL8</cust_lot_num>
+    </customer_lot>
+    <source_lot>
+      <src_lot_type>PS</src_lot_type>
+      <src_lot_number>R9JL8</src_lot_number>
+      <src_lot_category>NORMAL</src_lot_category>
+      <src_lot_qty>424500</src_lot_qty>
+      <src_device>D2273BFXWA00-00Q0</src_device>
+      <src_location>DIWH</src_location>
+    </source_lot>
+    <assembly_step>
+      <step_name />
+      <step_out_qty />
+    </assembly_step>
+    <test_insertion>
+      <insertion_name />
+      <insertion_qty_out />
+    </test_insertion>
+    <target_lot>
+      <tgt_lot_type>PS</tgt_lot_type>
+      <tgt_lot_number>R9JL8</tgt_lot_number>
+      <tgt_lot_category>NORMAL</tgt_lot_category>
+      <tgt_lot_qty>424500</tgt_lot_qty>
+      <tgt_device>D2273BFXWA00-00Q0</tgt_device>
+      <tgt_location>DIWH</tgt_location>
+    </target_lot>
+    <comp_lot>
+      <comp_lot_type />
+      <comp_lot_number />
+      <comp_lot_category />
+      <comp_lot_qty />
+      <comp_device />
+      <comp_location />
+    </comp_lot>
+    <date_code>
+      <date_code1 />
+      <date_code2 />
+    </date_code>
+    <reject>
+      <reject_code />
+      <reject_location />
+      <reject_qty />
+      <reject_comment />
+    </reject>
+    <bonus>
+      <bonus_code />
+      <bonus_location />
+      <bonus_qty />
+      <bonus_comment />
+    </bonus>
+    <commit_date>
+      <commit_month />
+      <commit_day />
+      <commit_year />
+      <commit_time />
+    </commit_date>
+    <hold_lot>
+      <held_reason />
+      <held_location />
+      <held_comment />
+    </hold_lot>
+  </transaction>
+  <transaction>
+    <transaction_code>INVRCPTS</transaction_code>
+    <transaction_date>
+      <tran_month>02</tran_month>
+      <tran_day>18</tran_day>
+      <tran_year>2017</tran_year>
+      <tran_time>21:42:00</tran_time>
+    </transaction_date>
+    <invoice>
+      <invoice_number>IAU1721334</invoice_number>
+      <target_location />
+    </invoice>
+    <customer_lot>
+      <cust_lot_type>PS</cust_lot_type>
+      <cust_lot_num>R9KA8</cust_lot_num>
+    </customer_lot>
+    <source_lot>
+      <src_lot_type>PS</src_lot_type>
+      <src_lot_number>R9KA8</src_lot_number>
+      <src_lot_category>NORMAL</src_lot_category>
+      <src_lot_qty>97385</src_lot_qty>
+      <src_device>D2269ACXWA00-00Q1</src_device>
+      <src_location>DIWH</src_location>
+    </source_lot>
+    <assembly_step>
+      <step_name />
+      <step_out_qty />
+    </assembly_step>
+    <test_insertion>
+      <insertion_name />
+      <insertion_qty_out />
+    </test_insertion>
+    <target_lot>
+      <tgt_lot_type>PS</tgt_lot_type>
+      <tgt_lot_number>R9KA8</tgt_lot_number>
+      <tgt_lot_category>NORMAL</tgt_lot_category>
+      <tgt_lot_qty>97385</tgt_lot_qty>
+      <tgt_device>D2269ACXWA00-00Q1</tgt_device>
+      <tgt_location>DIWH</tgt_location>
+    </target_lot>
+    <comp_lot>
+      <comp_lot_type />
+      <comp_lot_number />
+      <comp_lot_category />
+      <comp_lot_qty />
+      <comp_device />
+      <comp_location />
+    </comp_lot>
+    <date_code>
+      <date_code1 />
+      <date_code2 />
+    </date_code>
+    <reject>
+      <reject_code />
+      <reject_location />
+      <reject_qty />
+      <reject_comment />
+    </reject>
+    <bonus>
+      <bonus_code />
+      <bonus_location />
+      <bonus_qty />
+      <bonus_comment />
+    </bonus>
+    <commit_date>
+      <commit_month />
+      <commit_day />
+      <commit_year />
+      <commit_time />
+    </commit_date>
+    <hold_lot>
+      <held_reason />
+      <held_location />
+      <held_comment />
+    </hold_lot>
+  </transaction>
+  <transaction>
+    <transaction_code>INVRCPTS</transaction_code>
+    <transaction_date>
+      <tran_month>02</tran_month>
+      <tran_day>18</tran_day>
+      <tran_year>2017</tran_year>
+      <tran_time>21:43:00</tran_time>
+    </transaction_date>
+    <invoice>
+      <invoice_number>IAU1721334</invoice_number>
+      <target_location />
+    </invoice>
+    <customer_lot>
+      <cust_lot_type>PS</cust_lot_type>
+      <cust_lot_num>R9KA8.03</cust_lot_num>
+    </customer_lot>
+    <source_lot>
+      <src_lot_type>PS</src_lot_type>
+      <src_lot_number>R9KA8.03</src_lot_number>
+      <src_lot_category>NORMAL</src_lot_category>
+      <src_lot_qty>292155</src_lot_qty>
+      <src_device>D2269ACXWA00-00Q1</src_device>
+      <src_location>DIWH</src_location>
+    </source_lot>
+    <assembly_step>
+      <step_name />
+      <step_out_qty />
+    </assembly_step>
+    <test_insertion>
+      <insertion_name />
+      <insertion_qty_out />
+    </test_insertion>
+    <target_lot>
+      <tgt_lot_type>PS</tgt_lot_type>
+      <tgt_lot_number>R9KA8.03</tgt_lot_number>
+      <tgt_lot_category>NORMAL</tgt_lot_category>
+      <tgt_lot_qty>292155</tgt_lot_qty>
+      <tgt_device>D2269ACXWA00-00Q1</tgt_device>
+      <tgt_location>DIWH</tgt_location>
+    </target_lot>
+    <comp_lot>
+      <comp_lot_type />
+      <comp_lot_number />
+      <comp_lot_category />
+      <comp_lot_qty />
+      <comp_device />
+      <comp_location />
+    </comp_lot>
+    <date_code>
+      <date_code1 />
+      <date_code2 />
+    </date_code>
+    <reject>
+      <reject_code />
+      <reject_location />
+      <reject_qty />
+      <reject_comment />
+    </reject>
+    <bonus>
+      <bonus_code />
+      <bonus_location />
+      <bonus_qty />
+      <bonus_comment />
+    </bonus>
+    <commit_date>
+      <commit_month />
+      <commit_day />
+      <commit_year />
+      <commit_time />
+    </commit_date>
+    <hold_lot>
+      <held_reason />
+      <held_location />
+      <held_comment />
+    </hold_lot>
+  </transaction>
+  <transaction>
+    <transaction_code>INVRCPTS</transaction_code>
+    <transaction_date>
+      <tran_month>02</tran_month>
+      <tran_day>18</tran_day>
+      <tran_year>2017</tran_year>
+      <tran_time>21:44:00</tran_time>
+    </transaction_date>
+    <invoice>
+      <invoice_number>IAU1721335</invoice_number>
+      <target_location />
+    </invoice>
+    <customer_lot>
+      <cust_lot_type>PS</cust_lot_type>
+      <cust_lot_num>R9KSK</cust_lot_num>
+    </customer_lot>
+    <source_lot>
+      <src_lot_type>PS</src_lot_type>
+      <src_lot_number>R9KSK</src_lot_number>
+      <src_lot_category>NORMAL</src_lot_category>
+      <src_lot_qty>422325</src_lot_qty>
+      <src_device>D2350ABXWA00-00Q0</src_device>
+      <src_location>DIWH</src_location>
+    </source_lot>
+    <assembly_step>
+      <step_name />
+      <step_out_qty />
+    </assembly_step>
+    <test_insertion>
+      <insertion_name />
+      <insertion_qty_out />
+    </test_insertion>
+    <target_lot>
+      <tgt_lot_type>PS</tgt_lot_type>
+      <tgt_lot_number>R9KSK</tgt_lot_number>
+      <tgt_lot_category>NORMAL</tgt_lot_category>
+      <tgt_lot_qty>422325</tgt_lot_qty>
+      <tgt_device>D2350ABXWA00-00Q0</tgt_device>
+      <tgt_location>DIWH</tgt_location>
+    </target_lot>
+    <comp_lot>
+      <comp_lot_type />
+      <comp_lot_number />
+      <comp_lot_category />
+      <comp_lot_qty />
+      <comp_device />
+      <comp_location />
+    </comp_lot>
+    <date_code>
+      <date_code1 />
+      <date_code2 />
+    </date_code>
+    <reject>
+      <reject_code />
+      <reject_location />
+      <reject_qty />
+      <reject_comment />
+    </reject>
+    <bonus>
+      <bonus_code />
+      <bonus_location />
+      <bonus_qty />
+      <bonus_comment />
+    </bonus>
+    <commit_date>
+      <commit_month />
+      <commit_day />
+      <commit_year />
+      <commit_time />
+    </commit_date>
+    <hold_lot>
+      <held_reason />
+      <held_location />
+      <held_comment />
+    </hold_lot>
+  </transaction>
+  <transaction>
+    <transaction_code>INVRCPTS</transaction_code>
+    <transaction_date>
+      <tran_month>02</tran_month>
+      <tran_day>18</tran_day>
+      <tran_year>2017</tran_year>
+      <tran_time>21:45:00</tran_time>
+    </transaction_date>
+    <invoice>
+      <invoice_number>IAU1721336</invoice_number>
+      <target_location />
+    </invoice>
+    <customer_lot>
+      <cust_lot_type>PS</cust_lot_type>
+      <cust_lot_num>R9KW7</cust_lot_num>
+    </customer_lot>
+    <source_lot>
+      <src_lot_type>PS</src_lot_type>
+      <src_lot_number>R9KW7</src_lot_number>
+      <src_lot_category>NORMAL</src_lot_category>
+      <src_lot_qty>238375</src_lot_qty>
+      <src_device>D2471AEXWA00-00Q0</src_device>
+      <src_location>DIWH</src_location>
+    </source_lot>
+    <assembly_step>
+      <step_name />
+      <step_out_qty />
+    </assembly_step>
+    <test_insertion>
+      <insertion_name />
+      <insertion_qty_out />
+    </test_insertion>
+    <target_lot>
+      <tgt_lot_type>PS</tgt_lot_type>
+      <tgt_lot_number>R9KW7</tgt_lot_number>
+      <tgt_lot_category>NORMAL</tgt_lot_category>
+      <tgt_lot_qty>238375</tgt_lot_qty>
+      <tgt_device>D2471AEXWA00-00Q0</tgt_device>
+      <tgt_location>DIWH</tgt_location>
+    </target_lot>
+    <comp_lot>
+      <comp_lot_type />
+      <comp_lot_number />
+      <comp_lot_category />
+      <comp_lot_qty />
+      <comp_device />
+      <comp_location />
+    </comp_lot>
+    <date_code>
+      <date_code1 />
+      <date_code2 />
+    </date_code>
+    <reject>
+      <reject_code />
+      <reject_location />
+      <reject_qty />
+      <reject_comment />
+    </reject>
+    <bonus>
+      <bonus_code />
+      <bonus_location />
+      <bonus_qty />
+      <bonus_comment />
+    </bonus>
+    <commit_date>
+      <commit_month />
+      <commit_day />
+      <commit_year />
+      <commit_time />
+    </commit_date>
+    <hold_lot>
+      <held_reason />
+      <held_location />
+      <held_comment />
+    </hold_lot>
+  </transaction>
+</dataexchange>

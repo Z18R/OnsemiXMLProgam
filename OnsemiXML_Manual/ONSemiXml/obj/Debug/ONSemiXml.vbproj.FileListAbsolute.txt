@@ -1,0 +1,20 @@
+D:\KARL FILES\System vb2008\ONSemiXml\ONSemiXml\obj\Debug\ResolveAssemblyReference.cache
+D:\KARL FILES\System vb2008\ONSemiXml\ONSemiXml\obj\Debug\ONSemiXml.main.resources
+D:\KARL FILES\System vb2008\ONSemiXml\ONSemiXml\obj\Debug\ONSemiXml.Resources.resources
+D:\KARL FILES\System vb2008\ONSemiXml\ONSemiXml\obj\Debug\ONSemiXml.vbproj.GenerateResource.Cache
+D:\KARL FILES\System vb2008\ONSemiXml\ONSemiXml\bin\Debug\ONSemiXml.exe
+D:\KARL FILES\System vb2008\ONSemiXml\ONSemiXml\bin\Debug\ONSemiXml.pdb
+D:\KARL FILES\System vb2008\ONSemiXml\ONSemiXml\bin\Debug\ONSemiXml.xml
+D:\KARL FILES\System vb2008\ONSemiXml\ONSemiXml\obj\Debug\ONSemiXml.exe
+D:\KARL FILES\System vb2008\ONSemiXml\ONSemiXml\obj\Debug\ONSemiXml.xml
+D:\KARL FILES\System vb2008\ONSemiXml\ONSemiXml\obj\Debug\ONSemiXml.pdb
+C:\Users\jc_it\Desktop\ONSemiXml\OnsemiXML_Manual\ONSemiXml\obj\Debug\ONSemiXml.xml
+C:\Users\jc_it\Desktop\ONSemiXml\OnsemiXML_Manual\ONSemiXml\obj\Debug\ONSemiXml.pdb
+C:\Users\jc_it\Desktop\ONSemiXml\OnsemiXML_Manual\ONSemiXml\bin\Debug\ONSemiXml.exe
+C:\Users\jc_it\Desktop\ONSemiXml\OnsemiXML_Manual\ONSemiXml\bin\Debug\ONSemiXml.pdb
+C:\Users\jc_it\Desktop\ONSemiXml\OnsemiXML_Manual\ONSemiXml\bin\Debug\ONSemiXml.xml
+C:\Users\jc_it\Desktop\ONSemiXml\OnsemiXML_Manual\ONSemiXml\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jc_it\Desktop\ONSemiXml\OnsemiXML_Manual\ONSemiXml\obj\Debug\ONSemiXml.main.resources
+C:\Users\jc_it\Desktop\ONSemiXml\OnsemiXML_Manual\ONSemiXml\obj\Debug\ONSemiXml.Resources.resources
+C:\Users\jc_it\Desktop\ONSemiXml\OnsemiXML_Manual\ONSemiXml\obj\Debug\ONSemiXml.vbproj.GenerateResource.Cache
+C:\Users\jc_it\Desktop\ONSemiXml\OnsemiXML_Manual\ONSemiXml\obj\Debug\ONSemiXml.exe
